@@ -2,8 +2,14 @@
 
 
 
-name="Jazz"
-url="http://mwiz.co.uk/jazz/jazz.zip"
-img="http://mwiz.co.uk/jazz/jazz.png"
-fanart="http://cdn.wallpapersafari.com/24/96/daMm8e.jpg"
-description="New KRYPTON Xonfluence Skin Build By The Jazzy Jeff"
+name="SKYLEX"
+version="0.0.3"
+url="https://ia601902.us.archive.org/33/items/BuildTugaPower_201610/BuildSkylex.16-0.0.3.zip"
+gui="http://"
+kodi="16"
+theme="http://"
+icon="http://i86.servimg.com/u/f86/19/44/91/43/icon10.jpg"
+fanart="http://i86.servimg.com/u/f86/19/44/91/43/fanart12.jpg"
+preview="https://youtu.be/1MJdZMFS54c"
+adult="No"
+description=""
