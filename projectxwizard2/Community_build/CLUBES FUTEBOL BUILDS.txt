@@ -1,0 +1,32 @@
+name="Futebol Clube do Porto build"
+
+url="https://ia601502.us.archive.org/9/items/ConfluenceFCP_201612/Confluence_FCP.zip"
+
+img="http://i35.servimg.com/u/f35/19/44/91/43/fcp110.jpg"
+
+fanart="http://i35.servimg.com/u/f35/19/44/91/43/fcp210.jpg"
+
+description="Build  V1"
+
+
+
+name="Vitória de Guimarães build"
+
+url="https://ia601502.us.archive.org/9/items/ConfluenceFCP_201612/VitoriaDeGuimaraes.zip"
+
+img="http://i35.servimg.com/u/f35/19/44/91/43/vitori11.jpg"
+
+fanart="http://i35.servimg.com/u/f35/19/44/91/43/vitori10.jpg"
+
+description="Build  V1"
+
+
+name="Sporting Clube de Braga build"
+
+url="https://ia801502.us.archive.org/9/items/ConfluenceFCP_201612/Confluence_Braga.zip"
+
+img="http://i35.servimg.com/u/f35/19/44/91/43/braga210.jpg"
+
+fanart="http://i35.servimg.com/u/f35/19/44/91/43/braga110.jpg"
+
+description="Build  V1"
