@@ -1,19 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
-
-<layouttype>thumbnail</layouttype>
-
-
-
-
-
-
-
-
-
-
-
-
+﻿
 name="Ace Stream Engine"
 url="http://mrepo.uk/apk/AceStreamEngine.apk"
 img="http://www.androidaba.com/wp-content/uploads/2016/03/acestream-engine.jpg"
