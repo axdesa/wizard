@@ -1,0 +1,98 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<layouttype>thumbnail</layouttype>
+
+
+
+
+
+
+
+
+name="Merlin JARVIS"
+url="http://mwiz.co.uk/builds/merlinjarvis.zip"
+img="http://mrepo.uk/art/NEW/MERLINJARVIS.png"
+fanart="http://mrepo.uk/art/NEW/MERLINJARVIS.png"
+description="Latest And Most Frequently Updated Build For JARVIS, Approx 260MB Extracted"
+size="182 MB"
+bio="Build By Merlin - Support On FB Group /ProjMerlin/ And On Twitter @MerlinBuilds."
+
+name="Merlin KRYPTON"
+url="http://mwiz.co.uk/builds/merlinkrypt.zip"
+img="http://mrepo.uk/art/NEW/MERLINKRYPT.png"
+fanart="http://mrepo.uk/art/NEW/MERLINKRYPT.png"
+description="Latest And Most Frequently Updated Build For KRYPTON, Approx 260MB Extracted"
+size="188 MB"
+bio="Build By Merlin - Support On FB Group /ProjMerlin/ And On Twitter @MerlinBuilds."
+
+name="Sky Q JARVIS"
+url="http://mwiz.co.uk/builds/skyq.zip"
+img="http://mrepo.uk/art/NEW/SKYQ.png"
+fanart="http://mrepo.uk/art/NEW/SKYQ.png"
+description="Build Based On Sky Q For Jarvis By Merlin And Pulse, Approx 200MB Extracted"
+size="143 MB"
+bio="Build By Merlin - Support On FB Group /ProjMerlin/ And On Twitter @MerlinBuilds."
+
+name="Sky Q KRYPTON"
+url="http://mwiz.co.uk/builds/skyqkrypt.zip"
+img="http://mrepo.uk/art/NEW/SKYQ.png"
+fanart="http://mrepo.uk/art/NEW/SKYQ.png"
+description="Build Based On Sky Q For Krypton By Merlin And Pulse, Approx 200MB Extracted"
+size="137 MB"
+bio="Build By Merlin - Support On FB Group /ProjMerlin/ And On Twitter @MerlinBuilds."
+
+name="Merlin Basic"
+url="http://mwiz.co.uk/builds/cleanbuild.zip"
+img="http://mrepo.uk/art/NEW/BASIC.png"
+fanart="http://mrepo.uk/art/NEW/MERLINJARVIS.png"
+description="Cleanest And Smallest Basic Build For Jarvis, Approx 120MB Extracted"
+size="76 MB"
+bio="Build By Merlin - Support On FB Group /ProjMerlin/ And On Twitter @MerlinBuilds."
+
+
+name="Merlin JARVIS (Backup)"
+url="http://twizbuild.xyz/merl/merlinjarvis.zip"
+img="http://mrepo.uk/art/NEW/MERLINJARVIS.png"
+fanart="http://mrepo.uk/art/NEW/MERLINJARVIS.png"
+description="Latest And Most Frequently Updated Build For JARVIS, Approx 260MB Extracted"
+size="182 MB"
+bio="Build By Merlin - Support On FB Group /ProjMerlin/ And On Twitter @MerlinBuilds."
+
+
+name="Merlin KRYPTON (Backup)"
+url="http://twizbuild.xyz/merl/merlinkrypt.zip"
+img="http://mrepo.uk/art/NEW/MERLINKRYPT.png"
+fanart="http://mrepo.uk/art/NEW/MERLINKRYPT.png"
+description="Latest And Most Frequently Updated Build For KRYPTON, Approx 260MB Extracted"
+size="188 MB"
+bio="Build By Merlin - Support On FB Group /ProjMerlin/ And On Twitter @MerlinBuilds."
+
+
+name="Sky Q JARVIS (Backup)"
+url="http://twizbuild.xyz/merl/skyq.zip"
+img="http://mrepo.uk/art/NEW/SKYQ.png"
+fanart="http://mrepo.uk/art/NEW/SKYQ.png"
+description="Build Based On Sky Q For Jarvis By Merlin And Pulse, Approx 200MB Extracted"
+size="143 MB"
+bio="Build By Merlin - Support On FB Group /ProjMerlin/ And On Twitter @MerlinBuilds."
+
+name="Sky Q KRYPTON (Backup)"
+url="http://twizbuild.xyz/merl/skyqkrypt.zip"
+img="http://mrepo.uk/art/NEW/SKYQ.png"
+fanart="http://mrepo.uk/art/NEW/SKYQ.png"
+description="Build Based On Sky Q For Krypton By Merlin And Pulse, Approx 200MB Extracted"
+size="137 MB"
+bio="Build By Merlin - Support On FB Group /ProjMerlin/ And On Twitter @MerlinBuilds."
+
+name="Merlin Basic (Backup)"
+url="http://twizbuild.xyz/merl/cleanbuild.zip"
+img="http://mrepo.uk/art/NEW/BASIC.png"
+fanart="http://mrepo.uk/art/NEW/MERLINJARVIS.png"
+description="Cleanest And Smallest Basic Build For Jarvis, Approx 120MB Extracted"
+size="76 MB"
+bio="Build By Merlin - Support On FB Group /ProjMerlin/ And On Twitter @MerlinBuilds."
+
+
+

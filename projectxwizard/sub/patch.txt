@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<layouttype>thumbnail</layouttype>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+name="Patch Merlin Widget"
+url="http://mwiz.co.uk/builds/patchmenu.zip"
+img="https://cdn.patch.com/assets/layout/logo-patch-800x600.png"
+fanart="https://cdn.patch.com/assets/layout/logo-patch-800x600.png"
+description="Patches Broken Widgets!"
+size="0.1 MB"
+bio="Install As Directed In Group!"
+
+name="Add File Manager Sources"
+url="http://mwiz.co.uk/builds/sources.zip"
+img="http://mrepo.uk/art/sources.jpg"
+fanart="http://mrepo.uk/art/sources.jpg"
+description="Add Adult Content To Any Build!"
+size="0.2 MB"
+bio="Adds All The File Manager Sources You Need!"
+
+name="Add XXX To Merlin Jarvis"
+url="http://mwiz.co.uk/builds/xxx.zip"
+img="http://mrepo.uk/art/NEW/MERLINJARVIS1.png"
+fanart="http://mrepo.uk/art/NEW/MERLINJARVIS1.png"
+description="Add Adult Content/Shortcut To Your Merlin Jarvis Build Only!"
+size="6 MB"
+bio="INSTALL ONLY AFTER YOU HAVE INSTALLED MERLIN JARVIS BUILD!"
+
+name="Add XXX To Any Build"
+url="http://mwiz.co.uk/builds/anyxxx.zip"
+img="http://mrepo.uk/art/NEW/XXX1.jpg"
+fanart="http://25.media.tumblr.com/tumblr_lzvy9v6bns1rpfvsto1_1280.jpg"
+description="Add Adult Content To Any Build!"
+size="25 MB"
+bio="Locate In Your Add On Browser After Installation!"
+
+name="NGB Only Patch"
+url="https://www.dropbox.com/s/wxr5sj9brhcsdlb/userdata.zip?dl=1"
+img="http://i946.photobucket.com/albums/ad304/byrnen99/2016-12-13_zpsfe402tu5.png"
+fanart="http://i946.photobucket.com/albums/ad304/byrnen99/3_zpsy6lwxa9b.jpg"
+description="Apply This Fix To NGB Builds Only When Directed By NGB!"
+size="4 MB"
+bio="FOR USE ONLY ON THE NGB BUILDS!"
+
+
+name="Low End Settings"
+url="http://mwiz.co.uk/builds/advanced/lowend.zip"
+img="http://mwiz.co.uk/builds/advanced/image.png"
+fanart="http://mwiz.co.uk/builds/advanced/image.png"
+description="For The Low End Devices!"
+size="PLEASE READ"
+bio="Custom Advanced Buffer/Cache Settings"
+
+name="Mid Range Settings"
+url="http://mwiz.co.uk/builds/advanced/midrange.zip"
+img="http://mwiz.co.uk/builds/advanced/image.png"
+fanart="http://mwiz.co.uk/builds/advanced/image.png"
+description="For The Mid Range Devices!"
+size="PLEASE READ"
+bio="Custom Advanced Buffer/Cache Settings"
+
+name="High End Settings"
+url="http://mwiz.co.uk/builds/advanced/highend.zip"
+img="http://mwiz.co.uk/builds/advanced/image.png"
+fanart="http://mwiz.co.uk/builds/advanced/image.png"
+description="For The High End Devices!"
+size="PLEASE READ"
+bio="Custom Advanced Buffer/Cache Settings"
+
+name="Zero Cache Settings"
+url="http://mwiz.co.uk/builds/advanced/zerocache.zip"
+img="http://mwiz.co.uk/builds/advanced/image.png"
+fanart="http://mwiz.co.uk/builds/advanced/image.png"
+description="Use With Caution!"
+size="PLEASE READ"
+bio="Custom Advanced Buffer/Cache Settings"
+
+name="Default Settings"
+url="http://mwiz.co.uk/builds/advanced/default.zip"
+img="http://mwiz.co.uk/builds/advanced/image.png"
+fanart="http://mwiz.co.uk/builds/advanced/image.png"
+description="Restore To Merlin Defaults!"
+size="PLEASE READ"
+bio="Custom Advanced Buffer/Cache Settings"
