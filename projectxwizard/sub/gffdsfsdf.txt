@@ -7,8 +7,8 @@
 <item>
 <title>dgrgrege</title>
 <link>https://ia601902.us.archive.org/33/items/BuildTugaPower_201610/BuildSkylex.16-0.0.3.zip</link>
-<thumbnail>null</thumbnail>
-<fanart>null</fanart>
+<thumbnail>ICON</thumbnail>
+<fanart>FANART</fanart>
 
 <version>null</version>
 <notice>null</notice>
@@ -19,5 +19,4 @@
 <build_image>null</build_image>
 <hash>null</hash>
 
-
-</link>
+</item>
