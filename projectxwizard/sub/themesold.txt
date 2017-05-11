@@ -1,0 +1,178 @@
+
+name="Alienware Skin Jarvis"	
+url="http://fanriffic.com/wobble/themesold/Addons/alienware/nox.zip"
+img="http://fanriffic.com/wobble/themesold/Addons/alienware/icon.png"
+fanart="http://fanriffic.com/wobble/themesold/Addons/alienware/splash.jpg"
+description="V1.0"
+
+name="LowBar Skymod"	
+url="http://fanriffic.com/wobble/themesold/lowbar/lowbar.zip"
+img="http://fanriffic.com/wobble/themesold/lowbar/icon.png"
+fanart="http://fanriffic.com/wobble/.jpg"
+description="V1.0"
+
+
+name="Transformers Retro"	
+url="http://fanriffic.com/wobble/themesold/trans/retro.zip"
+img="http://fanriffic.com/wobble/themesold/trans/icon1.png"
+fanart="http://fanriffic.com/wobble/.jpg"
+description="V1.0"
+
+
+name="Transformers Modern"	
+url="http://fanriffic.com/wobble/themesold/trans/modern.zip"
+img="http://fanriffic.com/wobble/themesold/trans/icon.png"
+fanart="http://fanriffic.com/wobble/.jpg"
+description="V1.0"
+
+
+name="Disney Theme"	
+url="http://fanriffic.com/wobble/themesold/disney/disney.zip"
+img="http://fanriffic.com/wobble/themesold/disney/icon.png"
+fanart="http://fanriffic.com/wobble/.jpg"
+description="V1.0"
+
+
+name="Scotts Disney Theme"	
+url="http://fanriffic.com/wobble/themesold/disney/scottdisney.zip"
+img="http://fanriffic.com/wobble/themesold/disney/icon.png"
+fanart="http://fanriffic.com/wobble/.jpg"
+description="V1.0"
+
+
+name="Spiderman theme"	
+url="http://fanriffic.com/wobble/themesold/spiderman/spiderman.zip"
+img="http://fanriffic.com/wobble/themesold/spiderman/icon.png"
+fanart="http://fanriffic.com/wobble/.jpg"
+description="V1.0"
+
+name="The One With The Skymod"	
+url="http://fanriffic.com/wobble/themesold/skymod/skymod.zip"
+img="http://fanriffic.com/wobble/themesold/skymod/icon.png"
+fanart="http://fanriffic.com/wobble/.jpg"
+description="V1.0"
+
+name="Montreal Canadians NHL"	
+url="http://fanriffic.com/wobble/themesold/nhl/nhl.zip"
+img="http://fanriffic.com/wobble/themesold/nhl/icon.png"
+fanart="http://fanriffic.com/wobble/nhl/.jpg"
+description="V1.0"
+
+name="Cinema no wallpaper with intro"	
+url="http://fanriffic.com/wobble/themesold/cinema/cinemaintro.zip"
+img="http://fanriffic.com/wobble/themesold/cinema/icon.png"
+fanart="http://fanriffic.com/wobble/themesold/cinema/.jpg"
+description="V1.0"
+
+name="Cinema no wallpaper no intro"	
+url="http://fanriffic.com/wobble/themesold/cinema/cinema.zip"
+img="http://fanriffic.com/wobble/themesold/cinema/icon.png"
+fanart="http://fanriffic.com/wobble/themesold/cinema/.jpg"
+description="V1.0"
+
+name="Walking Dead Redux no intro"	
+url="http://fanriffic.com/wobble/themesold/walkingdead/ww.zip"
+img="http://fanriffic.com/wobble/themesold/walkingdead/icon.png"
+fanart="http://fanriffic.com/wobble/themesold/walkingdead/.jpg"
+description="V1.0"
+
+name="Walking Dead Redux with intro"	
+url="http://fanriffic.com/wobble/themesold/walkingdead/wwintro.zip"
+img="http://fanriffic.com/wobble/themesold/walkingdead/icon.png"
+fanart="http://fanriffic.com/wobble/themesold/walkingdead/.jpg"
+description="V1.0"
+
+
+
+name="Blue&Black Skin"	
+url="http://fanriffic.com/wobble/themesold/blueblack/bb.zip"
+img="http://fanriffic.com/wobble/themesold/blueblack/icon.png"
+fanart="http://fanriffic.com/wobble/themesold/blueblack/.jpg"
+description="V1.0"
+
+
+name="DarkSide skin no intro"	
+url="http://fanriffic.com/wobble/themesold/swdni/swd.zip"
+img="http://fanriffic.com/wobble/themesold/swdni/icon.png"
+fanart="http://fanriffic.com/wobble/themesold/swdni/.jpg"
+description="V1.0"
+
+name="DarkSide skin"	
+url="http://fanriffic.com/wobble/themesold/swdi/swd.zip"
+img="http://fanriffic.com/wobble/themesold/swdi/icon.png"
+fanart="http://fanriffic.com/wobble/themesold/swdi.jpg"
+description="V1.0"
+
+name="Yellow people skin"	
+url="http://fanriffic.com/wobble/themesold/simp/simp.zip"
+img="http://fanriffic.com/wobble/themesold/simp/icon.png"
+fanart="http://fanriffic.com/wobble/themesold/simp.jpg"
+description="V1.0"
+
+name="Wild Western skin"	
+url="http://fanriffic.com/wobble/themesold/western/western.zip"
+img="http://fanriffic.com/wobble/themesold/western/icon.png"
+fanart="http://fanriffic.com/wobble/themesold/western.jpg"
+description="V1.0"
+
+
+name="Dodgers Packers Kodi Skin with gui fix  "	
+url="http://fanriffic.com/wobble/themesold/Addons/dodgers/dodgers.zip"
+img="http://fanriffic.com/wobble/themesold/Addons/dodgers/icon.png"
+fanart="http://fanriffic.com/wobble/themesold/Addons/dodgers/splash.jpg"
+description="V1.0"
+
+name="Beaches Kodi Skin with gui fix  "	
+url="http://fanriffic.com/wobble/themesold/Addons/beaches/beaches.zip"
+img="http://fanriffic.com/wobble/themesold/Addons/beaches/icon.png"
+fanart="http://fanriffic.com/wobble/themesold/Addons/beaches/splash.jpg"
+description="V1.0"
+
+name="Flash VS Arrow Kodi Skin with gui fix"	
+url="http://fanriffic.com/wobble/themesold/Addons/flasharrow/flasharrow.zip"
+img="http://fanriffic.com/wobble/themesold/Addons/flasharrow/icon.png"
+fanart="http://fanriffic.com/wobble/themesold/Addons/flasharrow/splash.jpg"
+description="V1.0"
+
+name="WWE with Silver font Kodi Skin with gui fix"	
+url="http://fanriffic.com/wobble/themesold/Addons/wwe/wwe.zip"
+img="http://fanriffic.com/wobble/themesold/Addons/wwe/icon.png"
+fanart="http://fanriffic.com/wobble/themesold/Addons/wwe/splash.jpg"
+description="V1.0"
+
+name="MMA Kodi Skin with gui fix"	
+url="http://fanriffic.com/wobble/themesold/Addons/MMA/MMA.zip"
+img="http://fanriffic.com/wobble/themesold/Addons/MMA/icon.png"
+fanart="http://fanriffic.com/wobble/themesold/Addons/MMA/splash.jpg"
+description="V1.0"
+
+
+name="Chicago Sports Kodi Skin with gui fix"	
+url="http://fanriffic.com/wobble/themesold/Addons/chicago/chicago.zip"
+img="http://fanriffic.com/wobble/themesold/Addons/chicago/icon.png"
+fanart="http://fanriffic.com/wobble/themesold/Addons/chicago/splash.jpg"
+description="V1.0"
+
+
+name="Red and Black Kodi Skin with gui fix"	
+url="http://fanriffic.com/wobble/themesold/Addons/redblack/RandB.zip"
+img="http://fanriffic.com/wobble/themesold/Addons/redblack/icon.png"
+fanart="http://fanriffic.com/wobble/themesold/Addons/redblack/splash.jpg"
+description="V1.0"
+
+
+name="Purple Kodi Skin with gui fix"	
+url="http://fanriffic.com/wobble/themesold/Addons/purplegui/purplegui.zip"
+img="http://fanriffic.com/wobble/themesold/Addons/purplegui/icon.png"
+fanart="http://fanriffic.com/wobble/themesold/Addons/purplegui/splash.jpg"
+description="V1.0"
+
+name="Terminator Kodi Skin with gui fix"	
+url="http://fanriffic.com/wobble/themesold/Addons/Terminator/terminator.zip"
+img="http://fanriffic.com/wobble/themesold/Addons/Terminator/icon.png"
+fanart="http://fanriffic.com/wobble/themesold/Addons/Terminator/splash.jpg"
+description="V1.0"
+
+
+
+
