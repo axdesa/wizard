@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>thumbnail</layoutype>
+
+name =  dmode
+dir = dmode
+
+
+
+
+
+
+
+
+
+<dir>
+<name>[COLOR lavenderblush]BUILDS [/COLOR]</name>
+<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/JOGOS.xml</link>
+<thumbnail>http://boanoticia.com/wp-content/uploads/2013/04/jogos-gr%C3%A1tis-1.jpg</thumbnail>
+<fanart>http://img1.uploadhouse.com/fileuploads/17132/17132270ab1c4dd330f8341a346c6e082d7a376a.jpg</fanart>
+</dir>
+
+
+<plugin>
+<name>[COLOR lavenderblush]BUILDS [/COLOR]</name>
+<link>plugin://script.module.projectx.wizard/?mode=builds</link>
+<fanart>https://i.ytimg.com/vi/6Xrjj2EBXYM/maxresdefault.jpg</fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/1539679542/meustutoriais_400x400.jpg</thumbnail>
+</plugin>
+
+
+
+
+<plugin>
+<name>[COLOR lavenderblush]BUILDS [/COLOR]</name>
+<link>plugin://script.module.projectx.wizard/?mode=maint</link>
+<fanart>https://i.ytimg.com/vi/hDWpHNEAd68/maxresdefault.jpg</fanart>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/novida10.png</thumbnail>
+</plugin>
+
+
+
+
+
+<plugin>
+<name>[COLOR lavenderblush]MAINTENANCE [/COLOR]</name>
+<link>plugin://script.module.Community.dl/?url=http%3A%2F%2Fwww.team-tuga4ever.16mb.com%2F&amp;mode=92&amp;name=%5BCOLOR+ghostwhite%5D%5BB%5DSERVER+STATUS%5B%2FB%5D+%5B%2FCOLOR%5D&amp;fanart=C%3A%5CUsers%5CAntonio+Costa%5CAppData%5CRoaming%5CFreeTelly%5Caddons%5Cscript.module.Community.dl%5Cfanart.jpg</link>
+<fanart>https://i.ytimg.com/vi/6Xrjj2EBXYM/maxresdefault.jpg</fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/1539679542/meustutoriais_400x400.jpg</thumbnail>
+</plugin>
+
+
+
+
+<plugin>
+<name>[COLOR lavenderblush]INTERNET TOOLS [/COLOR]</name>
+<link>plugin://script.module.Community.dl/?description&amp;fanart=C%3a%5cUsers%5cAntonio%20Costa%5cAppData%5cRoaming%5cFreeTelly%5caddons%5cscript.module.Community.dl%5cfanart.jpg&amp;iconimage=C%3a%5cUsers%5cAntonio%20Costa%5cAppData%5cRoaming%5cFreeTelly%5caddons%5cscript.module.Community.dl%5cresources%5cart%5ccommunity.png&amp;mode=87&amp;name=%5bCOLOR%20ghostwhite%5d%5bB%5dCOMMUNITY%20BUILDS%5b%2fB%5d%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fwww.team-tuga4ever.16mb.com%2f</link>
+<fanart>https://i.ytimg.com/vi/hDWpHNEAd68/maxresdefault.jpg</fanart>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/novida10.png</thumbnail>
+</plugin>
+
+
+
+<plugin>
+<name>[COLOR lavenderblush]APK INSTALLER [/COLOR]</name>
+<link>plugin://script.module.projectx.wizard/?mode=builds</link>
+<fanart>https://i.ytimg.com/vi/6Xrjj2EBXYM/maxresdefault.jpg</fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/1539679542/meustutoriais_400x400.jpg</thumbnail>
+</plugin>
+
+
+
+
+<plugin>
+<name>[COLOR lavenderblush]YOUTUBE [/COLOR]</name>
+<link>plugin://script.module.projectx.wizard/?mode=maint</link>
+<fanart>https://i.ytimg.com/vi/hDWpHNEAd68/maxresdefault.jpg</fanart>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/novida10.png</thumbnail>
+</plugin>
+
+
+
+<plugin>
+<name>[COLOR lavenderblush]SAVE DATA [/COLOR]</name>
+<link>plugin://script.module.projectx.wizard/?mode=builds</link>
+<fanart>https://i.ytimg.com/vi/6Xrjj2EBXYM/maxresdefault.jpg</fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/1539679542/meustutoriais_400x400.jpg</thumbnail>
+</plugin>
+
+
+
+
+<plugin>
+<name>[COLOR lavenderblush]SETTINGS [/COLOR]</name>
+<link>plugin://script.module.projectx.wizard/?mode=maint</link>
+<fanart>https://i.ytimg.com/vi/hDWpHNEAd68/maxresdefault.jpg</fanart>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/novida10.png</thumbnail>
+</plugin>
