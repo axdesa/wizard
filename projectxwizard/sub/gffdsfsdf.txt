@@ -1,4 +1,14 @@
-'name="(.+?)".+?rl="(.+?)".+?mg="(.+?)".+?anart="(.+?)".+?ersion="(.+?)".+?ash="(.+?)"'
-
-
-'name="512 MB RAM DEVICES".+?rl="https://ia601501.us.archive.org/9/items/plugin.video.SportsDevil-2016.09.24/Advancedsettings512MbDevices.zip".+?mg="(.+?)".+?anart="(.+?)".+?ersion="(.+?)".+?ash="(.+?)"'
+shortcut="HomeVideosButton1,plugin.video.exodus"
+shortcut="HomeVideosButton2,plugin.video.salts"
+shortcut="HomeVideosButton3,plugin.video.1channel"
+shortcut="HomeVideosButton4,plugin.video.ccloudtv"
+shortcut="HomeVideosButton5,plugin.video.ustvnow.tva"
+shortcut="HomeMusicButton1,plugin.audio.radio_de"
+shortcut="HomeMusicButton2,plugin.video.itunes_podcasts"
+shortcut="HomeMusicButton3,plugin.audio.di.fm"
+shortcut="HomeMusicButton4,plugin.audio.radioreference"
+shortcut="HomeMusicButton5,plugin.audio.soundcloud"
+shortcut="HomeProgramButton1,script.navi-x"
+shortcut="HomeProgramButton2,plugin.program.indigo"
+shortcut="CustomBackgroundPath,special://home/media/SKINDEFAULT.jpg"
+shortcut="custom_background,special://home/media/SKINDEFAULT.jpg"
