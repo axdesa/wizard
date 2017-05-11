@@ -32,9 +32,9 @@
 <thumbnail>ICON</thumbnail>
 <fanart>FANART</fanart>
 
-<version>null</version>
+<version>Jarvis</version>
 <notice>null</notice>
-<platform>16</platform>
+<platform>16.1</platform>
 
 
 <youtube>null</youtube>
