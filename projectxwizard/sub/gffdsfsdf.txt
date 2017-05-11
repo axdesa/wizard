@@ -6,18 +6,18 @@
 
 <item>
 <title>[COLOR lavenderblush]BUILDS [/COLOR]</title>
-<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/JOGOS.xml</link>
-<thumbnail>http://boanoticia.com/wp-content/uploads/2013/04/jogos-gr%C3%A1tis-1.jpg</thumbnail>
-<fanart>http://img1.uploadhouse.com/fileuploads/17132/17132270ab1c4dd330f8341a346c6e082d7a376a.jpg</fanart>
+<link>null</link>
+<thumbnail>null</thumbnail>
+<fanart>null</fanart>
 
-<version>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/JOGOS.xml</version>
-<notice>http://boanoticia.com/wp-content/uploads/2013/04/jogos-gr%C3%A1tis-1.jpg</notice>
-<platform>http://img1.uploadhouse.com/fileuploads/17132/17132270ab1c4dd330f8341a346c6e082d7a376a.jpg</platform>
+<version>null</version>
+<notice>null</notice>
+<platform>16.1</platform>
 
 
-<youtube>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/JOGOS.xml</youtube>
-<build_image>http://boanoticia.com/wp-content/uploads/2013/04/jogos-gr%C3%A1tis-1.jpg</build_image>
+<youtube>null</youtube>
+<build_image>null</build_image>
 <hash>null</hash>
 
 
-<item>
+</link>
