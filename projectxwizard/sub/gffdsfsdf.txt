@@ -17,7 +17,7 @@
 
 <youtube>https://youtu.be/1MJdZMFS54c</youtube>
 <build_image>null</build_image>
-<hash>3432rfwf egvre</hash>
+<hash>TDB</hash>
 
 </item>
 
