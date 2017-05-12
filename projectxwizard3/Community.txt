@@ -1,0 +1,20 @@
+
+name="Alienware Skin Jarvis"	
+url="http://fanriffic.com/wobble/themesold/Addons/alienware/nox.zip"
+img="http://fanriffic.com/wobble/themesold/Addons/alienware/icon.png"
+fanart="http://fanriffic.com/wobble/themesold/Addons/alienware/splash.jpg"
+protected="V1.0"
+contact="V1.0"
+
+
+
+
+
+
+
+
+
+
+
+
+
