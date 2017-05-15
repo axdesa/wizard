@@ -28,7 +28,7 @@
 
 <item>
 <title>SKYLEX</title>
-<link>https://ia601508.us.archive.org/30/items/BuildConfluenceTvsupertuga/BuildSkylex.zip</link>
+<link>https://raw.githubusercontent.com/axdesa/wizard/master/projectxwizard/sub/kodiapps.txt</link>
 <thumbnail>http://i86.servimg.com/u/f86/19/44/91/43/icon10.jpg</thumbnail>
 <fanart>http://i86.servimg.com/u/f86/19/44/91/43/fanart12.jpg</fanart>
 
@@ -38,8 +38,8 @@
 
 
 <youtube>null</youtube>
-<build_image>null</build_image>
-<hash>null</hash>
+<build_image>https://i35.servimg.com/u/f35/19/44/91/43/110.jpg</build_image>
+<hash>SKYLEX</hash>
 
 </item>
 
