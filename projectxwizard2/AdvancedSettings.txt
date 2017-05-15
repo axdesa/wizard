@@ -1,0 +1,31 @@
+name="Advanced Settings Kodi 16"
+section="yes"
+url="http://soapt.pe.hu/SoaWizardTxt/advanced_kodi16.txt"
+icon="http://soapt.pe.hu/SoaWizardImages/settings.png"
+fanart="http://soapt.pe.hu/SoaWizardImages/fanart.png"
+description="Advanced Settings Kodi 16"
+
+name="Advanced Settings Kodi 17"
+section="yes"
+url="http://soapt.pe.hu/SoaWizardTxt/advanced_kodi17.txt"
+icon="http://soapt.pe.hu/SoaWizardImages/settings.png"
+fanart="http://soapt.pe.hu/SoaWizardImages/fanart.png"
+description="Advanced Settings Kodi 17"
+
+
+
+name="Advanced Settings Kodi 17"
+section="yes"
+url="https://raw.githubusercontent.com/axdesa/wizard/master/projectxwizard2/AdvancedSettings.xml"
+icon="http://soapt.pe.hu/SoaWizardImages/settings.png"
+fanart="http://soapt.pe.hu/SoaWizardImages/fanart.png"
+description="Advanced Settings Kodi 17"
+
+
+
+
+
+
+
+
+
