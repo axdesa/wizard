@@ -1,11 +1,11 @@
 name="Ace Stream Engine"
-url="http://mrepo.uk/apk/AceStreamEngine.apk"
+url="https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository/master/instal/tvsupertuga.repository/tvsupertuga.repository-0.0.7.zipk"
 img="NULL"
 fanart="NULL"
 version="512"
 
 name="BBC iPlayer"
-url="http://mrepo.uk/apk/bbc.iplayer.android_4.24.1.1209-42411209_minAPI16(armeabi-v7a,mips,x86)(nodpi)_apkmirror.com.apk"
+url="https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository/master/instal/tvsupertuga.repository/tvsupertuga.repository-0.0.7.zip"
 img="NULL"
 fanart="NULL"
 version="1"
