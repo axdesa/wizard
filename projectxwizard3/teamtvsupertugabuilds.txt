@@ -1,23 +1,38 @@
 
 
 
+<item>
+<title>SKYLEX</title>
+<link>https://ia601902.us.archive.org/33/items/BuildTugaPower_201610/BuildSkylex.16-0.0.3.zip</link>
+<thumbnail>http://i86.servimg.com/u/f86/19/44/91/43/icon10.jpg</thumbnail>
+<fanart>http://i86.servimg.com/u/f86/19/44/91/43/fanart12.jpg</fanart>
 
+<version>0.0.3</version>
+<notice>null</notice>
+<platform>16.1</platform>
+
+
+<youtube>null</youtube>
+<build_image>null</build_image>
+<hash>null</hash>
+
+</item>
 
 
 <item>
-<title>[COLOR lavenderblush]BUILDS [/COLOR]</title>
-<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/JOGOS.xml</link>
-<thumbnail>http://boanoticia.com/wp-content/uploads/2013/04/jogos-gr%C3%A1tis-1.jpg</thumbnail>
-<fanart>http://img1.uploadhouse.com/fileuploads/17132/17132270ab1c4dd330f8341a346c6e082d7a376a.jpg</fanart>
+<title>SKYLEX</title>
+<link>https://raw.githubusercontent.com/axdesa/wizard/master/projectxwizard/sub/kodiapps.txt</link>
+<thumbnail>http://i86.servimg.com/u/f86/19/44/91/43/icon10.jpg</thumbnail>
+<fanart>http://i86.servimg.com/u/f86/19/44/91/43/fanart12.jpg</fanart>
 
-<version>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/JOGOS.xml</version>
-<notice>http://boanoticia.com/wp-content/uploads/2013/04/jogos-gr%C3%A1tis-1.jpg</notice>
-<platform>http://img1.uploadhouse.com/fileuploads/17132/17132270ab1c4dd330f8341a346c6e082d7a376a.jpg</platform>
+<version>0.0.3</version>
+<notice>null</notice>
+<platform>17.1</platform>
 
 
-<youtube>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/JOGOS.xml</youtube>
-<build_image>http://boanoticia.com/wp-content/uploads/2013/04/jogos-gr%C3%A1tis-1.jpg</build_image>
-<hash>null</hash>
-
+<youtube>null</youtube>
+<build_image>https://i35.servimg.com/u/f35/19/44/91/43/110.jpg</build_image>
+<hash>SKYLEX</hash>
 
 </item>
+
