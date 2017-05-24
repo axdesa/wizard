@@ -1,0 +1,324 @@
+﻿
+name="Ace Stream Engine"
+url="http://mrepo.uk/apk/AceStreamEngine.apk"
+img="http://www.androidaba.com/wp-content/uploads/2016/03/acestream-engine.jpg"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+version="16"
+
+name="BBC iPlayer"
+url="http://mrepo.uk/apk/bbc.iplayer.android_4.24.1.1209-42411209_minAPI16(armeabi-v7a,mips,x86)(nodpi)_apkmirror.com.apk"
+img="https://seo-michael.co.uk/content/images/2015/12/bbcifeat.jpeg"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+version="16"
+
+name="Dream Player"
+url="http://mrepo.uk/apk/dream Player_v5.3.1_apkpure.com.apk"
+img="http://mrepo.uk/art/dream.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+version="16"
+
+name="Football TV"
+url="http://mrepo.uk/apk/Football TV_1.0.apk"
+img="http://mrepo.uk/art/footballtv.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+version="16"
+
+name="Kodi (Jarvis)"
+url="http://mrepo.uk/apk/kodi-16.1-Jarvis-armeabi-v7a.apk"
+img="https://iwf1.com/wordpress/wp-content/uploads/2016/02/Kodi-16-Jarvis.jpg"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+version="16"
+
+name="Live NET TV"
+url="http://mrepo.uk/apk/LiveNetTV_3.1.2_Update.apk"
+img="http://livenettv.xyz/img/Logo.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+version="16"
+
+name="MFT Installer"
+url="http://mrepo.uk/apk/com-app-mftinsatller-7-20809565-74a8f608c86ae0f0246380b9c112ac9b.apk"
+img="http://inkhint.com/wp-content/uploads/2016/10/MFT-Installer-Apk-Download-For-Android-1-300x169.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+version="16"
+
+name="Mobdro"
+url="http://mrepo.uk/apk/mobdro.apk"
+img="https://mobdrodownload.org/wp-content/uploads/2016/08/Download-Mobdro-TV-Add-On-For-XBMC.jpg"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+version="16"
+
+name="Movies Online 2016"
+url="http://mrepo.uk/apk/Movies Online.ver.3.0.build.3.apk"
+img="http://mrepo.uk/art/moviesonline.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+version="16"
+
+name="Multicraft Pocket Edition"
+url="http://mrepo.uk/apk/Multicraft Pocket Edition_v2.0.0_apkpure.com.apk"
+img="http://mrepo.uk/art/multicraft.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+version="16"
+
+name="Perfect Player"
+url="http://mrepo.uk/apk/Perfect_Player-Full-1.3.8.apk"
+img="http://mrepo.uk/art/perfectplayer.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+version="16"
+
+name="Plex For Android"
+url="http://mrepo.uk/apk/Plex-5.2.0.376.apk"
+img="https://i1.wp.com/apk4free.net/wp-content/uploads/2016/05/unnamed-71.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+version="16"
+
+name="Showbox Pro"
+url="http://mrepo.uk/apk/com.tdo.showbox.pro_4.72.apk"
+img="http://mrepo.uk/art/showbox.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+version="16"
+
+name="SPMC Latest"
+url="http://mrepo.uk/apk/SPMC-16.5.5-spmc-972797d-armeabi-v7a.apk"
+img="http://farm2.staticflickr.com/1656/26142831372_0d1803ecf4_o.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+version="16"
+
+
+name="SPMC Old"
+url="http://mrepo.uk/apk/SPMC-armeabi-v7a_16.4.2.apk"
+img="http://farm2.staticflickr.com/1656/26142831372_0d1803ecf4_o.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+version="16"
+
+name="Solid Streamz Unlocked"
+url="http://mrepo.uk/apk/Solid.Streamz.v.1.0.b.1.Permissions.Removed.apk"
+img="https://image.winudf.com/v1/image/Y29tLnNvbGlkLnN0cmVhbXpfaWNvbl8wX2U0OWY0MzI5/icon=170x.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+version="16"
+
+name="Swift Streamz"
+url="http://mrepo.uk/apk/SwiftStream.v1.6.adfree.apk"
+img="http://mrepo.uk/apk/swifty.jpg"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+version="16"
+
+
+
+name="Terrarium TV"
+url="http://mrepo.uk/apk/app-release.apk"
+img="https://i0.wp.com/a2zcity.net/wp-content/uploads/2016/08/terrariumtv.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+version="16"
+
+
+
+
+
+
+
+
+
+
+
+name="Kodi 16.1 x86"
+section="no"
+url="https://cld.pt/dl/download/74163a83-6732-475a-8095-70cb52e5e96a/kodi-16.1-Jarvis-x86.apk"
+icon="http://www.aftvnews.com/wp-content/uploads/2016/01/kodi_512x512.png"
+fanart="https://farm9.staticflickr.com/8741/16257070294_4da837efe6_o.png"
+version="16"
+
+name="SPMC 16.5.5 x86 (android 5.x e superior)"
+section="no"
+url="https://cld.pt/dl/download/aa60c4af-314e-4d98-8858-5d2d985cb308/SPMC-16.5.5-spmc-972797d-x86.apk"
+icon="http://s10.postimg.org/tcgt6xnud/ic_launcher_2.png"
+fanart="http://www.hostingpics.net/thumbs/53/63/87/mini_536387splash.png"
+version="16"
+
+name="SPMC 16.4.2 arm (atĂŠ android 4.x)"
+section="no"
+url="https://cld.pt/dl/download/68614e0c-6cdd-4258-bf93-116fbbfe7a04/SPMC-armeabi-v7a_16.4.2.apk"
+icon="http://s10.postimg.org/tcgt6xnud/ic_launcher_2.png"
+fanart="http://www.hostingpics.net/thumbs/53/63/87/mini_536387splash.png"
+version="16"
+
+name="SPMC 16.4.2 x86 (atĂŠ android 4.x)"
+section="no"
+url="https://cld.pt/dl/download/bebc3e46-0064-405c-9dcf-ab76bce7f4fd/SPMC-x86_16.4.2.apk"
+icon="http://s10.postimg.org/tcgt6xnud/ic_launcher_2.png"
+fanart="http://www.hostingpics.net/thumbs/53/63/87/mini_536387splash.png"
+version="16"
+
+name="ES File Explorer"
+section="no"
+url="https://cld.pt/dl/download/0412ab5b-f68d-410e-83bc-36c866751460/ES%20File%20Explorer-4.1.6-AdFree.apk"
+icon="https://lh3.googleusercontent.com/GXJtgfcxiEaLabZDmJasdFYB74hSSz1M5fdpKA0wPAmobuI1uc6mcSH_tTdu5XpQaNES=w300"
+fanart="https://lh3.googleusercontent.com/A57ww_jRTYRXbcswiGwiXEQuc1wn_K53WS_7DVgoM2zZ0dmT4bhg_PFink7HWg7V7t0=h900"
+version="16"
+
+name="Ace Stream"
+section="no"
+url="https://cld.pt/dl/download/fa294f68-7cd7-428f-a3dc-11757cb953d0/org.acestream.media.v3.1.6.0.apk"
+icon="https://img.utdstc.com/icons/120/ace-stream.png"
+fanart="http://www.androidaba.com/wp-content/uploads/2016/04/acestream-sopcast-by-aba-768x432.jpg"
+version="16"
+
+
+name="SopCast"
+section="no"
+url="https://cld.pt/dl/download/dde934fb-32c2-4f45-9946-94d9d4b9a6a8/SopCast_1.2.8.apk"
+icon="http://i.utdstc.com/icons/120/sopcast-.png"
+fanart="http://cdn.ghacks.net/wp-content/uploads/2006/12/sopcast-tv-over-internet-660x363.jpg"
+version="16"
+
+name="Hola Vpn"
+section="no"
+url="https://cld.pt/dl/download/0ca7c2d3-dff8-409b-a96e-3d8be68c6493/Hola-ARM7A_1.28.647.apk"
+icon="http://goglobaljobs.com/wp-content/uploads/2016/06/hola-300x300.png"
+fanart="http://www.passoapasso.net.br/wp-content/uploads/2016/04/hola-vpn.jpg"
+version="16"
+
+name="Advanced Task Killer"
+section="no"
+url="https://cld.pt/dl/download/83a79a04-ff86-41d9-a8dd-dc7ac6e776d6/advancedtaskkiller213.apk"
+icon="https://image.winudf.com/v1/image/Y29tLnBha3NvZnR3YXJlcy5hZHZhbmNlZHRhc2traWxsZXJfaWNvbl8wX2Q0NTUzZTE5/icon=170x.png"
+fanart="http://tr1.cbsistatic.com/hub/i/2015/05/07/4f8c5fde-f4ac-11e4-940f-14feb5cc3d2a/tablet_advanced_task_killer.png"
+version="16"
+
+name="Mobdro Live TV App"
+section="no"
+url="https://cld.pt/dl/download/148a33a5-6587-4c44-9947-af733c87d31f/mobdro.apk"
+icon="https://1boxshop.zendesk.com/hc/en-us/article_attachments/201493081/photo.jpg"
+fanart="http://www.potionseller.co.uk/appstore/apps/mobdro/mobdrofan.jpg"
+version="16"
+
+name="WiFi Settings Pro App"
+section="no"
+url="https://cld.pt/dl/download/97c9ec59-72d6-4b1d-9dc3-99b185ea4a4b/WiFi%20Settings%20Pro_1.2.7.apk"
+icon="http://cdn.apk-cloud.com/detail/image/htmt.wifisettings-w250.png"
+fanart="http://www.pngall.com/wp-content/uploads/2016/07/Wi-Fi-PNG.png"
+version="16"
+
+name="DNSet"
+section="no"
+url="https://www.dropbox.com/s/8a6n4lljkdf2i6i/com.dnset.apk"
+icon="http://data.apkhere.com/data/42/com.dnsetpro/1.2/icon.png"
+fanart="http://xslab.com/i/2013/08/dns-changer-01.jpg"
+version="16"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+name="Happy Chick"
+url="http://mrepo.uk/apk/emus/happychick.apk"
+img="https://2.bp.blogspot.com/-TimTAORmY4c/V6lRa1S0_QI/AAAAAAAAAfM/EwCj6g86_kcnCFdTNUbMJuEgdy9SFk6cQCPcB/s400/happy%2Bchick.PNG"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+version="16"
+
+name="Atari Lynx"
+url="http://mrepo.uk/apk/emus/atarilynx.apk"
+img="http://mrepo.uk/art/lynx.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+version="16"
+
+name="Game Boy"
+url="http://mrepo.uk/apk/emus/gameboy.apk"
+img="http://mrepo.uk/art/gb123.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+version="16"
+
+name="Game Cube"
+url="http://mrepo.uk/apk/emus/gamecube.apk"
+img="http://vignette3.wikia.nocookie.net/fireemblem/images/9/9c/Nintendo_game_cube.png/revision/latest?cb=20120603065142"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+version="16"
+
+name="Game Gear"
+url="http://mrepo.uk/apk/emus/gamegear.apk"
+img="http://www.elotrolado.net/w/images/thumb/5/50/Imagen-alfa-consola-Sega-Game-Gear.png/280px-Imagen-alfa-consola-Sega-Game-Gear.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+version="16"
+
+name="Mega Drive"
+url="http://mrepo.uk/apk/emus/mdemulator.apk"
+img="https://upload.wikimedia.org/wikipedia/commons/b/be/Sega-Mega-Drive-JP-Mk1-Console-Set.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+version="16"
+
+name="NES"
+url="http://mrepo.uk/apk/emus/nesemulator.apk"
+img="https://scr.sad.supinfo.com/articles/resources/150436/340/1.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+description="You Will Need To Source Your Own ROMs For Now!"
+version="16"
+
+name="Playstation 2"
+url="http://mrepo.uk/apk/emus/fpse.apk"
+img="http://www.theisozone.com/images/items/1fe5f1e026_1.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+version="16"
+
+name="PSP"
+url="http://mrepo.uk/apk/emus/ppsspp.apk"
+img="http://uk.playstation.com/media/PXGH5FDY/345_psp_main.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+description="You Will Need To Source Your Own ROMs For Now!"
+version="16"
+
+name="RetroArch"
+url="http://mrepo.uk/apk/emus/retroarch.apk"
+img="http://wololo.net/wagic/wp-content/uploads/2014/05/retroarch.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+description="You Will Need To Source Your Own ROMs For Now!"
+version="16"
+
+name="Super NES"
+url="http://mrepo.uk/apk/emus/play-snes.apk"
+img="https://wiki.dolphin-emu.org/images/6/64/SFC_Console.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+description="You Will Need To Source Your Own ROMs For Now!"
+version="16"
