@@ -1,0 +1,2 @@
+
+<items><item><name>SKYLEX</name><thumbnail>http://kodiapps.com/charts/123-movies.png</thumbnail><notice>null</notice><platform>16</platform><link>http://kodiapps.com/how-to-install-123-movies-on-kodi</link><youtube>null</youtube><fanart>null</fanart><hash>null</hash><build_image>null</build_image><version>null</version></item>
