@@ -9,7 +9,7 @@
 
 <addon_path>http://soapt.pe.hu/zips/addons.xml</addon_path>
 <repo_path>http://soapt.pe.hu/repo/repository.SonsOfAnarchy-2.0.zip</repo_path>
-<youtube>null</youtube>
+<youtube></youtube>
 
 
 </item>
