@@ -6,7 +6,7 @@
 
 <item>
 <title>SKYLEX</title>
-<link>https://ia601902.us.archive.org/33/items/BuildTugaPower_201610/BuildSkylex.16-0.0.3.zip</link>
+<link>null</link>
 <thumbnail>http://i86.servimg.com/u/f86/19/44/91/43/icon10.jpg</thumbnail>
 <fanart>http://i86.servimg.com/u/f86/19/44/91/43/fanart12.jpg</fanart>
 
