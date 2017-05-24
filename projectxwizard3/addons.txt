@@ -3,12 +3,12 @@
 
 <item>
 <title>SKYLEX</title>
-<zips>https://ia601902.us.archive.org/33/items/BuildTugaPower_201610/BuildSkylex.16-0.0.3.zip</zips>
+<zips>http://soapt.pe.hu/zips/repository.filmkodi.com/repository.filmkodi.com-2.1.0.zip</zips>
 <iconimage>http://i86.servimg.com/u/f86/19/44/91/43/icon10.jpg</iconimage>
 <fanart>http://i86.servimg.com/u/f86/19/44/91/43/fanart12.jpg</fanart>
 
-<addon_path>0.0.3</addon_path>
-<repo_path>null</repo_path>
+<addon_path>http://soapt.pe.hu/zips/addons.xml</addon_path>
+<repo_path>http://soapt.pe.hu/repo/repository.SonsOfAnarchy-2.0.zip</repo_path>
 <youtube>null</youtube>
 
 
