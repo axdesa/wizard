@@ -2,15 +2,14 @@
 
 
 <item>
-<title>SKYLEX</title>
-<zips>http://soapt.pe.hu/zips/repository.filmkodi.com/repository.filmkodi.com-2.1.0.zip</zips>
+<title>TVSUPERTUGA REPOSITORY</title>
+<zips>https://github.com/repotvsupertuga/tvsupertuga.repository/tree/master/instal</zips>
 <iconimage>http://i86.servimg.com/u/f86/19/44/91/43/icon10.jpg</iconimage>
 <fanart>http://i86.servimg.com/u/f86/19/44/91/43/fanart12.jpg</fanart>
 
-<addon_path>http://soapt.pe.hu/zips/addons.xml</addon_path>
-<repo_path>http://soapt.pe.hu/repo/repository.SonsOfAnarchy-2.0.zip</repo_path>
+<addon_path>https://github.com/repotvsupertuga/tvsupertuga.repository/tree/master/instal</addon_path>
+<repo_path>https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository/master/instal/tvsupertuga.repository/tvsupertuga.repository-0.0.7.zip</repo_path>
 <youtube></youtube>
-
 
 </item>
 
