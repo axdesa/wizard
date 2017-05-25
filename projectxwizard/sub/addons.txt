@@ -7,23 +7,16 @@
 
 
 
-
-
-
-
-
-
-
-name="RepositAlrio SOA PT"
-plugin="repository.SonsOfAnarchy"
-url="http://soapt.pe.hu/repo/repository.SonsOfAnarchy-2.0.zip"
+name="TVSUPERTUGA REPOSITORY"
+plugin="tvsupertuga.repository"
+url="https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository/master/instal/tvsupertuga.repository/tvsupertuga.repository-0.0.7.zip"
 repository="none"
-repositoryxml="http://"
-repositoryurl="http://"
-icon="http://soapt.pe.hu/zips/repository.SonsOfAnarchy/icon.png"
-fanart="http://soapt.pe.hu/zips/repository.SonsOfAnarchy/fanart.jpg"
+repositoryxml="https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository/master/instal/tvsupertuga.repository/addon.xml"
+repositoryurl="http://tvsupertuga.net23.net/repo/"
+icon="https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository/master/tvsupertuga.repository/icon.png"
+fanart="https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository/master/instal/tvsupertuga.repository/fanart.jpg"
 adult="no"
-description="RepositAlrio SOA PT."
+description="TVsupertuga Repository."
 
 name="RepositAlrio FilmKodi (Specto)"
 plugin="repository.filmkodi.com"

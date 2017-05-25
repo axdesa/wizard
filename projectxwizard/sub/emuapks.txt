@@ -19,6 +19,108 @@
 
 
 
+
+
+
+
+
+name="Happy Chick"
+url="http://mrepo.uk/apk/emus/happychick.apk"
+img="https://2.bp.blogspot.com/-TimTAORmY4c/V6lRa1S0_QI/AAAAAAAAAfM/EwCj6g86_kcnCFdTNUbMJuEgdy9SFk6cQCPcB/s400/happy%2Bchick.PNG"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+description="You Will Need To Source Your Own ROMs For Now!"
+size="   "
+bio="EMULATOR"
+
+name="Atari Lynx"
+url="http://mrepo.uk/apk/emus/atarilynx.apk"
+img="http://mrepo.uk/art/lynx.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+description="You Will Need To Source Your Own ROMs For Now!"
+size="   "
+bio="EMULATOR"
+
+name="Game Boy"
+url="http://mrepo.uk/apk/emus/gameboy.apk"
+img="http://mrepo.uk/art/gb123.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+description="You Will Need To Source Your Own ROMs For Now!"
+size="   "
+bio="EMULATOR"
+
+name="Game Cube"
+url="http://mrepo.uk/apk/emus/gamecube.apk"
+img="http://vignette3.wikia.nocookie.net/fireemblem/images/9/9c/Nintendo_game_cube.png/revision/latest?cb=20120603065142"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+description="You Will Need To Source Your Own ROMs For Now!"
+size="   "
+bio="EMULATOR"
+
+name="Game Gear"
+url="http://mrepo.uk/apk/emus/gamegear.apk"
+img="http://www.elotrolado.net/w/images/thumb/5/50/Imagen-alfa-consola-Sega-Game-Gear.png/280px-Imagen-alfa-consola-Sega-Game-Gear.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+description="You Will Need To Source Your Own ROMs For Now!"
+size="   "
+bio="EMULATOR"
+
+name="Mega Drive"
+url="http://mrepo.uk/apk/emus/mdemulator.apk"
+img="https://upload.wikimedia.org/wikipedia/commons/b/be/Sega-Mega-Drive-JP-Mk1-Console-Set.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+description="You Will Need To Source Your Own ROMs For Now!"
+size="   "
+bio="EMULATOR"
+
+name="NES"
+url="http://mrepo.uk/apk/emus/nesemulator.apk"
+img="https://scr.sad.supinfo.com/articles/resources/150436/340/1.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+description="You Will Need To Source Your Own ROMs For Now!"
+size="   "
+bio="EMULATOR"
+
+name="Playstation 2"
+url="http://mrepo.uk/apk/emus/fpse.apk"
+img="http://www.theisozone.com/images/items/1fe5f1e026_1.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+description="You Will Need To Source Your Own ROMs For Now!"
+size="   "
+bio="EMULATOR"
+
+name="PSP"
+url="http://mrepo.uk/apk/emus/ppsspp.apk"
+img="http://uk.playstation.com/media/PXGH5FDY/345_psp_main.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+description="You Will Need To Source Your Own ROMs For Now!"
+size="   "
+bio="EMULATOR"
+
+name="RetroArch"
+url="http://mrepo.uk/apk/emus/retroarch.apk"
+img="http://wololo.net/wagic/wp-content/uploads/2014/05/retroarch.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+description="You Will Need To Source Your Own ROMs For Now!"
+size="   "
+bio="EMULATOR"
+
+name="Super NES"
+url="http://mrepo.uk/apk/emus/play-snes.apk"
+img="https://wiki.dolphin-emu.org/images/6/64/SFC_Console.png"
+fanart="http://mrepo.uk/art/apkpaper.jpg"
+description="You Will Need To Source Your Own ROMs For Now!"
+size="   "
+bio="EMULATOR"
+
+
+
+
+
+
+
+
+
+
 name="Capcom Emulator"
 url="http://beaub.srve.io/Gaming/emulators/CPSEmu-1.4.apk"
 icon="http://files.gamebanana.com/img/ico/sprays/capcom.gif"
