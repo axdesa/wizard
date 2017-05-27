@@ -62,30 +62,6 @@ description="[COLOR red] CRIADOR (Rui Almeida)[/COLOR]"
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-name="FUTURAMA"
-version="0.0.1"
-url="https://cld.pt/dl/download/ee79f1d5-9e34-48c3-adfc-523a810d9876/Pheno.zip"
-gui="http://"
-kodi="16"
-theme="http://"
-icon="http://i35.servimg.com/u/f35/19/44/91/43/futura11.jpg"
-fanart="http://i35.servimg.com/u/f35/19/44/91/43/futura10.jpg"
-preview="http://"
-adult="No"
-description="CRIADOR (Rui Almeida)"
-
 name="IMPERIO"
 version="0.0.1"
 url="https://archive.org/download/BuildTugaPower_201610/team%20builds/Imperiobuild2.zip"
