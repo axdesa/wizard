@@ -8,7 +8,14 @@ icon="https://i58.servimg.com/u/f58/19/44/91/43/skylex13.jpg"
 fanart="https://i58.servimg.com/u/f58/19/44/91/43/skylex12.jpg"
 preview="https://youtu.be/1MJdZMFS54c"
 adult="No"
-description=""
+description="SKYLEX Build was designed for low end machines like Firesticks. Recomended: Single Core CPU | 1GB RAM or more"
+autor="Pedro"
+
+
+
+
+
+
 
 name="MATAPOUCO"
 version="0.0.1"
@@ -20,7 +27,9 @@ icon="https://i58.servimg.com/u/f58/19/44/91/43/matapo10.jpg"
 fanart="https://i58.servimg.com/u/f58/19/44/91/43/matapo12.jpg"
 preview="http://"
 adult="No"
-description="[COLOR red] Build do Diogo Pinho[/COLOR]"
+description="[COLOR red] MATAPOUCO Build was designed for low end machines like Firesticks. Recomended: Single Core CPU | 512 MB RAM or more[/COLOR]"
+autor="Diogo Pinho"
+
 
 name="300"
 version="0.2"
@@ -32,7 +41,11 @@ icon="https://i58.servimg.com/u/f58/19/44/91/43/13576810.jpg"
 fanart="https://i58.servimg.com/u/f58/19/44/91/43/13576810.jpg"
 preview="https://youtu.be/UVecqFoAM64"
 adult="No"
-description="[COLOR red] Build do Diogo Pinho[/COLOR]"
+description="[COLOR red] 300 Build was designed for low end machines like Firesticks. Recomended: Single Core CPU | 1GB RAM or more[/COLOR]"
+autor="Rui Almeida"
+
+
+
 
 name="TUGAPOWER"
 version="0.0.1"
@@ -44,7 +57,9 @@ icon="https://i58.servimg.com/u/f58/19/44/91/43/13502510.jpg"
 fanart="https://i58.servimg.com/u/f58/19/44/91/43/tugapo10.jpg"
 preview="https://youtu.be/WA_aspYSGcM"
 adult="No"
-description="[COLOR red] CRIADOR (Pedro)[/COLOR]"
+description="[COLOR red] TUGAPOWER was designed for mid-level machines like MX8 and T8. Recomended: Dual Core CPU | 2GB RAM or more[/COLOR]"
+autor="Pedro"
+
 
 name="FUTURAMA"
 version="3.0.0"
@@ -56,8 +71,8 @@ icon="http://i35.servimg.com/u/f35/19/44/91/43/futura11.jpg"
 fanart="http://i35.servimg.com/u/f35/19/44/91/43/futura10.jpg"
 preview="http://"
 adult="no"
-description="[COLOR red] CRIADOR (Rui Almeida)[/COLOR]"
-
+description="[COLOR red] FUTURAMA Build was designed for low end machines like Firesticks. Recomended: Single Core CPU | 1GB RAM or more[/COLOR]"
+autor="Rui Almeida"
 
 
 
@@ -72,7 +87,9 @@ icon="https://i58.servimg.com/u/f58/19/44/91/43/imperi10.jpg"
 fanart="https://i58.servimg.com/u/f58/19/44/91/43/imperi10.jpg"
 preview="http://"
 adult="No"
-description="CRIADOR"
+description="[COLOR red] IMPERIO Build was designed for low end machines like Firesticks. Recomended: Single Core CPU | 1GB RAM or more[/COLOR]"
+autor="????"
+
 
 name="LOGAN TV"
 version="1.1.0"
@@ -84,8 +101,8 @@ icon="https://i58.servimg.com/u/f58/19/44/91/43/logan_10.png"
 fanart="https://i58.servimg.com/u/f58/19/44/91/43/logan_10.png"
 preview="http://"
 adult="No"
-description="CRIADOR (Kintela Pereira)"
-
+description="[COLOR red] LOGAN TV Build was designed for low end machines like Firesticks. Recomended: Single Core CPU | 1GB RAM or more[/COLOR]"
+autor="Kintela Pereira"
 
 
 
@@ -102,6 +119,8 @@ fanart="https://i58.servimg.com/u/f58/19/44/91/43/pirata10.jpg"
 preview="http://"
 adult="No"
 description="CRIADOR (Kintela Pereira)"
+autor="No"
+
 
 name="EURO 2016"
 version="0.1"
@@ -114,7 +133,7 @@ fanart="https://i58.servimg.com/u/f58/19/44/91/43/euro_210.jpg"
 preview="http://"
 adult="No"
 description="CRIADOR (Pedro)"
-
+autor="No"
 
 
 name="CONFLUENCE by TVSUPERTUGA"
@@ -128,7 +147,7 @@ fanart="https://i58.servimg.com/u/f58/19/44/91/43/conflu10.jpg"
 preview="http://"
 adult="No"
 description="CRIADOR (Antonio)"
-
+autor="No"
 
 
 name="REVOLVE by TVSUPERTUGA"
@@ -142,7 +161,7 @@ fanart="https://i58.servimg.com/u/f58/19/44/91/43/revolv10.jpg"
 preview="http://"
 adult="No"
 description="CRIADOR (Antonio)"
-
+autor="No"
 
 
 
@@ -170,6 +189,8 @@ preview="http://"
 adult="No"
 data="02-02-2017"
 description="CRIADOR (Antonio)"
+autor="No"
+
 
 name="SKYLEX"
 version="0.0.1"
@@ -183,25 +204,6 @@ preview="http://"
 adult="No"
 data="18-02-2017"
 description="CRIADOR (Pedro)"
+autor="No"
 
 
-
-
-
-
-
-
-
-
-
-name="SoaNewK18 Experimental "
-version="3.0.1"
-url="https://cld.pt/dl/download/cc36b6b0-add9-450c-baa2-1144cff5ce57/SoaNewLeia_v3.0.1.zip"
-gui="http://"
-kodi="18"
-theme="http://"
-icon="https://cld.pt/dl/download/382a6ad6-816e-472f-8b8b-925c2a2edcc2/icon.png"
-fanart="https://cld.pt/dl/download/0f835feb-13d1-4483-81b2-686c66c7c7be/fanart.jpg"
-preview="http://"
-adult="No"
-description=""
