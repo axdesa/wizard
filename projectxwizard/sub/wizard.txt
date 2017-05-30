@@ -8,9 +8,7 @@ icon="https://i58.servimg.com/u/f58/19/44/91/43/skylex13.jpg"
 fanart="https://i58.servimg.com/u/f58/19/44/91/43/skylex12.jpg"
 preview="https://youtu.be/1MJdZMFS54c"
 adult="No"
-description="SKYLEX Build was designed for low end machines like Firesticks. Recomended: Single Core CPU | 1GB RAM or more"
-autor="Pedro"
-
+description="[COLOR cyan] AUTOR: Pedro Selva [/COLOR]-[COLOR red] SKYLEX Build was designed for low end machines like Firesticks. Recomended: Single Core CPU | 1GB RAM or more[/COLOR]"
 
 
 
@@ -27,8 +25,8 @@ icon="https://i58.servimg.com/u/f58/19/44/91/43/matapo10.jpg"
 fanart="https://i58.servimg.com/u/f58/19/44/91/43/matapo12.jpg"
 preview="http://"
 adult="No"
-description="[COLOR red] MATAPOUCO Build was designed for low end machines like Firesticks. Recomended: Single Core CPU | 512 MB RAM or more[/COLOR]"
-autor="Diogo Pinho"
+description="[COLOR cyan] AUTOR: Diogo Pinho [/COLOR]-[COLOR red] MATAPOUCO Build was designed for low end machines like Firesticks. Recomended: Single Core CPU | 512 MB RAM or more[/COLOR]"
+
 
 
 name="300"
@@ -41,8 +39,8 @@ icon="https://i58.servimg.com/u/f58/19/44/91/43/13576810.jpg"
 fanart="https://i58.servimg.com/u/f58/19/44/91/43/13576810.jpg"
 preview="https://youtu.be/UVecqFoAM64"
 adult="No"
-description="[COLOR red] 300 Build was designed for low end machines like Firesticks. Recomended: Single Core CPU | 1GB RAM or more[/COLOR]"
-autor="Rui Almeida"
+description="[COLOR cyan] AUTOR: Rui Almeida [/COLOR]-[COLOR red] 300 Build was designed for low end machines like Firesticks. Recomended: Single Core CPU | 1GB RAM or more[/COLOR]"
+
 
 
 
@@ -57,8 +55,8 @@ icon="https://i58.servimg.com/u/f58/19/44/91/43/13502510.jpg"
 fanart="https://i58.servimg.com/u/f58/19/44/91/43/tugapo10.jpg"
 preview="https://youtu.be/WA_aspYSGcM"
 adult="No"
-description="[COLOR red] TUGAPOWER was designed for mid-level machines like MX8 and T8. Recomended: Dual Core CPU | 2GB RAM or more[/COLOR]"
-autor="Pedro"
+description="[COLOR cyan] AUTOR: Pedro Selva [/COLOR]-[COLOR red] TUGAPOWER was designed for mid-level machines like MX8 and T8. Recomended: Dual Core CPU | 2GB RAM or more[/COLOR]"
+
 
 
 name="FUTURAMA"
@@ -71,8 +69,8 @@ icon="http://i35.servimg.com/u/f35/19/44/91/43/futura11.jpg"
 fanart="http://i35.servimg.com/u/f35/19/44/91/43/futura10.jpg"
 preview="http://"
 adult="no"
-description="[COLOR red] FUTURAMA Build was designed for low end machines like Firesticks. Recomended: Single Core CPU | 1GB RAM or more[/COLOR]"
-autor="Rui Almeida"
+description="[COLOR cyan] AUTOR: Rui Almeida [/COLOR]-[COLOR red] FUTURAMA Build was designed for low end machines like Firesticks. Recomended: Single Core CPU | 1GB RAM or more[/COLOR]"
+
 
 
 
@@ -87,8 +85,8 @@ icon="https://i58.servimg.com/u/f58/19/44/91/43/imperi10.jpg"
 fanart="https://i58.servimg.com/u/f58/19/44/91/43/imperi10.jpg"
 preview="http://"
 adult="No"
-description="[COLOR red] IMPERIO Build was designed for low end machines like Firesticks. Recomended: Single Core CPU | 1GB RAM or more[/COLOR]"
-autor="????"
+description="[COLOR cyan] AUTOR: ???? [/COLOR]-[COLOR red] IMPERIO Build was designed for low end machines like Firesticks. Recomended: Single Core CPU | 1GB RAM or more[/COLOR]"
+
 
 
 name="LOGAN TV"
@@ -101,8 +99,8 @@ icon="https://i58.servimg.com/u/f58/19/44/91/43/logan_10.png"
 fanart="https://i58.servimg.com/u/f58/19/44/91/43/logan_10.png"
 preview="http://"
 adult="No"
-description="[COLOR red] LOGAN TV Build was designed for low end machines like Firesticks. Recomended: Single Core CPU | 1GB RAM or more[/COLOR]"
-autor="Kintela Pereira"
+description="[COLOR cyan] AUTOR: Kintela Pereira [/COLOR]-[COLOR red] LOGAN TV Build was designed for low end machines like Firesticks. Recomended: Single Core CPU | 1GB RAM or more[/COLOR]"
+
 
 
 
@@ -119,7 +117,7 @@ fanart="https://i58.servimg.com/u/f58/19/44/91/43/pirata10.jpg"
 preview="http://"
 adult="No"
 description="CRIADOR (Kintela Pereira)"
-autor="No"
+
 
 
 name="EURO 2016"
@@ -133,7 +131,7 @@ fanart="https://i58.servimg.com/u/f58/19/44/91/43/euro_210.jpg"
 preview="http://"
 adult="No"
 description="CRIADOR (Pedro)"
-autor="No"
+
 
 
 name="CONFLUENCE by TVSUPERTUGA"
@@ -147,7 +145,7 @@ fanart="https://i58.servimg.com/u/f58/19/44/91/43/conflu10.jpg"
 preview="http://"
 adult="No"
 description="CRIADOR (Antonio)"
-autor="No"
+
 
 
 name="REVOLVE by TVSUPERTUGA"
@@ -161,7 +159,7 @@ fanart="https://i58.servimg.com/u/f58/19/44/91/43/revolv10.jpg"
 preview="http://"
 adult="No"
 description="CRIADOR (Antonio)"
-autor="No"
+
 
 
 
@@ -189,7 +187,7 @@ preview="http://"
 adult="No"
 data="02-02-2017"
 description="CRIADOR (Antonio)"
-autor="No"
+
 
 
 name="SKYLEX"
@@ -204,6 +202,6 @@ preview="http://"
 adult="No"
 data="18-02-2017"
 description="CRIADOR (Pedro)"
-autor="No"
+
 
 
