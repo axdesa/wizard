@@ -116,7 +116,7 @@ icon="https://i58.servimg.com/u/f58/19/44/91/43/pirata10.jpg"
 fanart="https://i58.servimg.com/u/f58/19/44/91/43/pirata10.jpg"
 preview="http://"
 adult="No"
-description="CRIADOR (Kintela Pereira)"
+description="[COLOR green] AUTOR: Kintela Pereira [/COLOR]-[COLOR red] LOGAN TV Build was designed for low end machines like Firesticks. Recomended: Single Core CPU | 1GB RAM or more[/COLOR]"
 
 
 
@@ -130,7 +130,7 @@ icon="https://i58.servimg.com/u/f58/19/44/91/43/euro_210.jpg"
 fanart="https://i58.servimg.com/u/f58/19/44/91/43/euro_210.jpg"
 preview="http://"
 adult="No"
-description="CRIADOR (Pedro)"
+description="[COLOR green] AUTOR: Pedro Selva [/COLOR]-[COLOR red] TUGAPOWER Build was designed for low end machines like Firesticks. Recomended: Single Core CPU | 1GB RAM or more[/COLOR]"
 
 
 
@@ -144,7 +144,7 @@ icon="https://i58.servimg.com/u/f58/19/44/91/43/conflu10.jpg"
 fanart="https://i58.servimg.com/u/f58/19/44/91/43/conflu10.jpg"
 preview="http://"
 adult="No"
-description="CRIADOR (Antonio)"
+description="[COLOR green] AUTOR: Antonio Costa [/COLOR]-[COLOR red] TUGAPOWER Build was designed for low end machines like Firesticks. Recomended: Single Core CPU | 512 MB RAM or more[/COLOR]"
 
 
 
@@ -158,7 +158,7 @@ icon="https://i58.servimg.com/u/f58/19/44/91/43/revolv10.jpg"
 fanart="https://i58.servimg.com/u/f58/19/44/91/43/revolv10.jpg"
 preview="http://"
 adult="No"
-description="CRIADOR (Antonio)"
+description="[COLOR green] AUTOR: Antonio Costa [/COLOR]-[COLOR red] TUGAPOWER was designed for mid-level machines like MX8 and T8. Recomended: Dual Core CPU | 2GB RAM or more[/COLOR]"
 
 
 
@@ -186,7 +186,7 @@ fanart="https://i58.servimg.com/u/f58/19/44/91/43/conflu10.jpg"
 preview="http://"
 adult="No"
 data="02-02-2017"
-description="CRIADOR (Antonio)"
+description="[COLOR green] AUTOR: Antonio Costa [/COLOR]-[COLOR red] TUGAPOWER Build was designed for low end machines like Firesticks. Recomended: Single Core CPU | 512 MB RAM or more[/COLOR]"
 
 
 
@@ -201,7 +201,7 @@ icon="https://i58.servimg.com/u/f58/19/44/91/43/revolv10.jpg"
 fanart="https://i58.servimg.com/u/f58/19/44/91/43/revolv10.jpg"
 preview="http://"
 adult="No"
-description="CRIADOR (Antonio)"
+description="[COLOR green] AUTOR: Antonio Costa [/COLOR]-[COLOR red] TUGAPOWER was designed for mid-level machines like MX8 and T8. Recomended: Dual Core CPU | 2GB RAM or more[/COLOR]"
 
 
 
@@ -218,7 +218,7 @@ fanart="https://i58.servimg.com/u/f58/19/44/91/43/skylex11.jpg"
 preview="http://"
 adult="No"
 data="18-02-2017"
-description="CRIADOR (Pedro)"
+description="[COLOR green] AUTOR: Pedro Selva [/COLOR]-[COLOR red] SKYLEX Build was designed for low end machines like Firesticks. Recomended: Single Core CPU | 1GB RAM or more[/COLOR]"
 
 
 
