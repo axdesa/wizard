@@ -8,7 +8,7 @@
 
 
 name="TVSUPERTUGA "
-plugin="tvsupertuga.repository"
+plugin="plugin.video.TVsupertuga"
 url="https://raw.githubusercontent.com/axdesa/wizard/master/projectxwizard/addonsfix/TVsupertuga.zip"
 repository="none"
 repositoryxml="https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository/master/plugin.video.TVsupertuga/addon.xml"

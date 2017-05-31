@@ -106,7 +106,7 @@ description="[COLOR green] AUTOR: Kintela Pereira [/COLOR]-[COLOR red] LOGAN TV 
 
 
 
-name="PIRATA DAS CARAIBAS"
+name="[COLOR cyan]PIRATA DAS CARAIBAS[/COLOR] "
 version="0.1"
 url="https://ia601508.us.archive.org/11/items/BuildTugaPower_201610/BuildPirataDasCaraibas.zip"
 gui="http://"
@@ -120,7 +120,7 @@ description="CRIADOR (Kintela Pereira)"
 
 
 
-name="EURO 2016"
+name="[COLOR cyan]EURO 2016[/COLOR] "
 version="0.1"
 url="https://ia601508.us.archive.org/11/items/BuildTugaPower_201610/team%20builds/build.euro.2016.zip"
 gui="http://"
@@ -134,7 +134,7 @@ description="CRIADOR (Pedro)"
 
 
 
-name="CONFLUENCE by TVSUPERTUGA"
+name="[COLOR cyan]CONFLUENCE by TVSUPERTUGA[/COLOR] "
 version="0.1"
 url="https://ia601508.us.archive.org/11/items/BuildTugaPower_201610/team%20builds/BuildConfluenceTvsupertuga.zip"
 gui="http://"
@@ -148,7 +148,7 @@ description="CRIADOR (Antonio)"
 
 
 
-name="REVOLVE by TVSUPERTUGA"
+name="[COLOR cyan]REVOLVE by TVSUPERTUGA[/COLOR] "
 version="0.1"
 url="https://ia601508.us.archive.org/11/items/BuildTugaPower_201610/BuildRevolve.zip"
 gui="http://"
@@ -175,7 +175,7 @@ description="CRIADOR (Antonio)"
 
 
 
-name="CONFLUENCE by TVSUPERTUGA"
+name="[COLOR cyan]CONFLUENCE by TVSUPERTUGA[/COLOR] "
 version="0.1"
 url="https://ia601508.us.archive.org/30/items/BuildConfluenceTvsupertuga/build%20confluence%20tvsupertuga.zip"
 gui="http://"
@@ -190,7 +190,24 @@ description="CRIADOR (Antonio)"
 
 
 
-name="SKYLEX"
+
+name="[COLOR cyan]REVOLVE by TVSUPERTUGA[/COLOR] "
+version="0.1"
+url=""
+gui="http://"
+kodi="17"
+theme="http://"
+icon="https://i58.servimg.com/u/f58/19/44/91/43/revolv10.jpg"
+fanart="https://i58.servimg.com/u/f58/19/44/91/43/revolv10.jpg"
+preview="http://"
+adult="No"
+description="CRIADOR (Antonio)"
+
+
+
+
+
+name="[COLOR cyan]SKYLEX[/COLOR] "
 version="0.0.1"
 url="https://ia601508.us.archive.org/30/items/BuildConfluenceTvsupertuga/BuildSkylex.zip"
 gui="http://"
@@ -202,6 +219,19 @@ preview="http://"
 adult="No"
 data="18-02-2017"
 description="CRIADOR (Pedro)"
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
