@@ -3,7 +3,19 @@
 
 <layouttype>thumbnail</layouttype>
 
+[COLOR cyan]ADDONS[/COLOR]
 
+
+name="                                   [COLOR cyan]ADDONS[/COLOR] "
+plugin="plugin"
+url="https://raw"
+repository="none"
+repositoryxml="https://"
+repositoryurl="http://tvsupertuga.net23.net/repo/"
+icon="https://ftgyhujiko.000webhostapp.com/tvsupertuga.repositoryAddon"
+fanart="https://ftgyhujiko.000webhostapp.com/tvsupertuga.repository"
+adult="no"
+description=" Addon ."
 
 
 
@@ -14,10 +26,45 @@ url="https://raw.githubusercontent.com/axdesa/wizard/master/projectxwizard/addon
 repository="none"
 repositoryxml="https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository/master/plugin.video.TVsupertuga/addon.xml"
 repositoryurl="http://tvsupertuga.net23.net/repo/"
-icon="https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository/master/tvsupertuga.repository/icon.png"
-fanart="https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository/master/instal/tvsupertuga.repository/fanart.jpg"
+icon="https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository/master/plugin.video.TVsupertuga/icon.png"
+fanart="https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository/master/plugin.video.TVsupertuga/fanart.jpg"
 adult="no"
 description="TVsupertuga Addon ."
+
+
+name="LOGAN TV "
+plugin="plugin.video.loganaddon"
+url="https://raw.githubusercontent.com/axdesa/wizard/master/projectxwizard/addonsfix/TVsupertuga.zip"
+repository="none"
+repositoryxml="https://ftgyhujiko.000webhostapp.com/tvsupertuga.repository/instal/plugin.video.loganaddon/plugin.video.loganaddon-2.0.zip"
+repositoryurl="http://tvsupertuga.net23.net/repo/"
+icon="https://ftgyhujiko.000webhostapp.com/tvsupertuga.repository/instal/plugin.video.loganaddon/icon.png"
+fanart="https://ftgyhujiko.000webhostapp.com/tvsupertuga.repository/instal/plugin.video.loganaddon/fanart.jpg"
+adult="no"
+description="Logan Addon ."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -33,156 +80,3 @@ fanart="https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository
 adult="no"
 description="TVsupertuga Repository."
 
-name="RepositAlrio FilmKodi (Specto)"
-plugin="repository.filmkodi.com"
-url="http://soapt.pe.hu/zips/repository.filmkodi.com/repository.filmkodi.com-2.1.0.zip"
-repository="repository.SonsOfAnarchy"
-repositoryxml="http://soapt.pe.hu/zips/addons.xml"
-repositoryurl="http://soapt.pe.hu/repo/repository.SonsOfAnarchy-2.0.zip"
-icon="http://soapt.pe.hu/zips/repository.filmkodi.com/icon.png"
-fanart="http://soapt.pe.hu/zips/repository.filmkodi.com/fanart.jpg"
-adult="no"
-description="RepositAlrio FilmKodi (Specto)"
-
-name="RepositAlrio RonnieHD (Plexus)"
-plugin="repository.ronniehd"
-url="http://soapt.pe.hu/zips/repository.ronniehd/repository.ronniehd-1.0.1.zip"
-repository="repository.SonsOfAnarchy"
-repositoryxml="http://soapt.pe.hu/zips/addons.xml"
-repositoryurl="http://soapt.pe.hu/repo/repository.SonsOfAnarchy-2.0.zip"
-icon="http://soapt.pe.hu/zips/repository.ronniehd/icon.png"
-fanart="http://soapt.pe.hu/zips/repository.ronniehd/fanart.jpg"
-adult="no"
-description="RepositAlrio RonnieHD (Plexus)"
-
-name="RepositAlrio Shani (F4M)"
-plugin="repository.shani"
-url="http://soapt.pe.hu/zips/repository.shani/repository.shani-2.9.zip"
-repository="repository.SonsOfAnarchy"
-repositoryxml="http://soapt.pe.hu/zips/addons.xml"
-repositoryurl="http://soapt.pe.hu/repo/repository.SonsOfAnarchy-2.0.zip"
-icon="http://soapt.pe.hu/zips/repository.shani/icon.png"
-fanart="http://soapt.pe.hu/zips/repository.shani/fanart.jpg"
-adult="no"
-description="RepositAlrio RonnieHD (Plexus)"
-
-name="SOA TV Guide"
-plugin="script.livetvbeta"
-url="http://"
-repository="repository.SonsOfAnarchy"
-repositoryxml="http://soapt.pe.hu/zips/addons.xml"
-repositoryurl="http://soapt.pe.hu/repo/repository.SonsOfAnarchy-2.0.zip"
-icon="http://soapt.pe.hu/zips/script.livetvbeta/icon.png"
-fanart="http://soapt.pe.hu/zips/script.livetvbeta/fanart.jpg"
-adult="no"
-description="SOA TV Guide"
-
-name="RTP Play"
-plugin="plugin.video.rtpplay"
-url="http://"
-repository="repository.SonsOfAnarchy"
-repositoryxml="http://soapt.pe.hu/zips/addons.xml"
-repositoryurl="http://soapt.pe.hu/repo/repository.SonsOfAnarchy-2.0.zip"
-icon="http://soapt.pe.hu/zips/plugin.video.rtpplay/icon.png"
-fanart="http://soapt.pe.hu/zips/plugin.video.rtpplay/fanart.jpg"
-adult="no"
-description="RTP Play"
-
-name="TVI Player"
-plugin="plugin.video.tviplayer"
-url="http://"
-repository="repository.SonsOfAnarchy"
-repositoryxml="http://soapt.pe.hu/zips/addons.xml"
-repositoryurl="http://soapt.pe.hu/repo/repository.SonsOfAnarchy-2.0.zip"
-icon="http://soapt.pe.hu/zips/plugin.video.tviplayer/icon.png"
-fanart="http://soapt.pe.hu/zips/plugin.video.tviplayer/fanart.jpg"
-adult="no"
-description="TVI Player"
-
-name="Soa Highlights"
-plugin="plugin.video.footy"
-url="http://"
-repository="repository.SonsOfAnarchy"
-repositoryxml="http://soapt.pe.hu/zips/addons.xml"
-repositoryurl="http://soapt.pe.hu/repo/repository.SonsOfAnarchy-2.0.zip"
-icon="http://soapt.pe.hu/zips/plugin.video.footy/icon.png"
-fanart="http://soapt.pe.hu/zips/plugin.video.footy/fanart.jpg"
-adult="no"
-description="Soa Highlights"
-
-name="Futebol 4 Linhas"
-plugin="plugin.video.minas"
-url="http://"
-repository="repository.SonsOfAnarchy"
-repositoryxml="http://soapt.pe.hu/zips/addons.xml"
-repositoryurl="http://soapt.pe.hu/repo/repository.SonsOfAnarchy-2.0.zip"
-icon="http://soapt.pe.hu/zips/plugin.video.minas/icon.png"
-fanart="http://soapt.pe.hu/zips/plugin.video.minas/fanart.jpg"
-adult="no"
-description="Futebol 4 Linhas"
-
-name="RAAdio Comercial"
-plugin="plugin.video.Radio.Comercial"
-url="http://"
-repository="repository.SonsOfAnarchy"
-repositoryxml="http://soapt.pe.hu/zips/addons.xml"
-repositoryurl="http://soapt.pe.hu/repo/repository.SonsOfAnarchy-2.0.zip"
-icon="http://soapt.pe.hu/zips/plugin.video.Radio.Comercial/icon.png"
-fanart="http://soapt.pe.hu/zips/plugin.video.Radio.Comercial/fanart.jpg"
-adult="no"
-description="RAAdio Comercial"
-
-name="SOA 18+"
-plugin="plugin.video.soa18"
-url="http://"
-repository="repository.SonsOfAnarchy"
-repositoryxml="http://soapt.pe.hu/zips/addons.xml"
-repositoryurl="http://soapt.pe.hu/repo/repository.SonsOfAnarchy-2.0.zip"
-icon="http://soapt.pe.hu/zips/plugin.video.soa18/icon.png"
-fanart="http://soapt.pe.hu/zips/plugin.video.soa18/fanart.jpg"
-adult="yes"
-description="SOA 18+"
-
-name="Anarchy Movies"
-plugin="plugin.video.soamovies"
-url="http://"
-repository="repository.SonsOfAnarchy"
-repositoryxml="http://soapt.pe.hu/zips/addons.xml"
-repositoryurl="http://soapt.pe.hu/repo/repository.SonsOfAnarchy-2.0.zip"
-icon="http://soapt.pe.hu/zips/plugin.video.soamovies/icon.png"
-fanart="http://soapt.pe.hu/zips/plugin.video.soamovies/fanart.jpg"
-adult="no"
-description="Anarchy Movies"
-
-name="Samcro Times - Jornais e Revistas"
-plugin="plugin.image.samcrotimes"
-url="http://"
-repository="repository.SonsOfAnarchy"
-repositoryxml="http://soapt.pe.hu/zips/addons.xml"
-repositoryurl="http://soapt.pe.hu/repo/repository.SonsOfAnarchy-2.0.zip"
-icon="http://soapt.pe.hu/zips/plugin.image.samcrotimes/icon.png"
-fanart="http://soapt.pe.hu/zips/plugin.image.samcrotimes/fanart.jpg"
-adult="no"
-description="Samcro Times"
-
-name="Sports Devil"
-plugin="plugin.video.SportsDevil"
-url="http://"
-repository="repository.SonsOfAnarchy"
-repositoryxml="http://soapt.pe.hu/zips/addons.xml"
-repositoryurl="http://soapt.pe.hu/repo/repository.SonsOfAnarchy-2.0.zip"
-icon="http://soapt.pe.hu/zips/plugin.video.SportsDevil/icon.png"
-fanart="http://soapt.pe.hu/zips/plugin.video.SportsDevil/fanart.jpg"
-adult="no"
-description="Sports Devil"
-
-name="Plexus"
-plugin="program.plexus"
-url="http://"
-repository="repository.SonsOfAnarchy"
-repositoryxml="http://soapt.pe.hu/zips/addons.xml"
-repositoryurl="http://soapt.pe.hu/repo/repository.SonsOfAnarchy-2.0.zip"
-icon="http://soapt.pe.hu/zips/program.plexus/icon.png"
-fanart="http://soapt.pe.hu/zips/program.plexus/fanart.jpg"
-adult="no"
-description="Plexus"
