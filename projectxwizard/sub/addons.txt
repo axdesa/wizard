@@ -7,6 +7,7 @@
 
 
 
+
 name="TVSUPERTUGA "
 plugin="plugin.video.TVsupertuga"
 url="https://raw.githubusercontent.com/axdesa/wizard/master/projectxwizard/addonsfix/TVsupertuga.zip"
@@ -17,6 +18,20 @@ icon="https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository/m
 fanart="https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository/master/instal/tvsupertuga.repository/fanart.jpg"
 adult="no"
 description="TVsupertuga Addon ."
+
+
+
+
+name="TVSUPERTUGA REPOSITORY"
+plugin="tvsupertuga.repository"
+url="https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository/master/instal/tvsupertuga.repository/tvsupertuga.repository-0.0.7.zip"
+repository="none"
+repositoryxml="https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository/master/instal/tvsupertuga.repository/addon.xml"
+repositoryurl="http://tvsupertuga.net23.net/repo/"
+icon="https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository/master/tvsupertuga.repository/icon.png"
+fanart="https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository/master/instal/tvsupertuga.repository/fanart.jpg"
+adult="no"
+description="TVsupertuga Repository."
 
 name="RepositAlrio FilmKodi (Specto)"
 plugin="repository.filmkodi.com"
