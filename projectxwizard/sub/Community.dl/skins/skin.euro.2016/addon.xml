@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="skin.euro.2016"
+  version="0.0.1"
+  name="Euro 2016"
+  provider-name="Team TVsupertuga">
+	<requires>
+		<import addon="xbmc.gui" version="5.10.0"/>
+		<import addon="script.grab.fanart" version="0.12.8"/>
+		<import addon="script.skinshortcuts" version="0.4.5"/>
+		<import addon="service.library.data.provider" version="0.0.7"/>
+		<import addon="resource.images.studios.white" version="0.0.1"/>
+		<import addon="resource.images.recordlabels.white" version="0.0.1"/>
+		<import addon="script.image.resource.select" version="0.0.5"/>
+	</requires>
+	<extension
+	  point="xbmc.gui.skin"
+	  debugging="false"
+	  effectslowdown="0.75">
+		<res width="1920" height="1080" aspect="16:9" default="true" folder="1080i" />
+		<res width="2560" height="1080" aspect="21:9" default="false" folder="21x9" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="de">By Team TVsupertuga</summary>
+		<summary lang="el">By Team TVsupertuga</summary>
+		<summary lang="en">By Team TVsupertuga</summary>
+		<summary lang="en_AU">By Team TVsupertuga</summary>
+		<summary lang="en_NZ">By Team TVsupertuga</summary>
+		<summary lang="en_US">By Team TVsupertuga</summary>
+		<summary lang="es">By Team TVsupertuga</summary>
+		<summary lang="fi">By Team TVsupertuga</summary>
+		<summary lang="fr">By Team TVsupertuga</summary>
+		<summary lang="fr_CA">By Team TVsupertuga</summary>
+		<summary lang="gl">By Team TVsupertuga</summary>
+		<summary lang="he">By Team TVsupertuga</summary>
+		<summary lang="hu">By Team TVsupertuga</summary>
+		<summary lang="is">By Team TVsupertuga</summary>
+		<summary lang="it">By Team TVsupertuga</summary>
+		<summary lang="ko">By Team TVsupertuga</summary>
+		<summary lang="lt">By Team TVsupertuga</summary>
+		<summary lang="ms">By Team TVsupertuga</summary>
+		<summary lang="nl">By Team TVsupertuga</summary>
+		<summary lang="no">By Team TVsupertuga</summary>
+		<summary lang="pl">By Team TVsupertuga</summary>
+		<summary lang="pt">By Team TVsupertuga</summary>
+		<summary lang="pt_BR">By Team TVsupertuga</summary>
+		<summary lang="ro">By Team TVsupertuga</summary>
+		<summary lang="ru">By Team TVsupertuga</summary>
+		<summary lang="sk">By Team TVsupertuga</summary>
+		<summary lang="sv">By Team TVsupertuga</summary>
+		<summary lang="th">By Team TVsupertuga</summary>
+		<summary lang="vi">By Team TVsupertuga - Sự trở về</summary>
+		<summary lang="zh">By Team TVsupertuga</summary>
+		<description lang="pt"></description>
+		<platform>all</platform>
+	</extension>
+</addon>

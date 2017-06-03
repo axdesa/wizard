@@ -2,46 +2,124 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 <layouttype>thumbnail</layouttype>
+cyan
 
-[COLOR cyan]ADDONS[/COLOR]
-
-
-name="                                   [COLOR cyan]ADDONS[/COLOR] "
+name="                                 [COLOR red]ADDONS[/COLOR] "
 plugin="plugin"
 url="https://raw"
 repository="none"
 repositoryxml="https://"
 repositoryurl="http://tvsupertuga.net23.net/repo/"
-icon="https://ftgyhujiko.000webhostapp.com/tvsupertuga.repositoryAddon"
-fanart="https://ftgyhujiko.000webhostapp.com/tvsupertuga.repository"
+icon="https://i58.servimg.com/u/f58/19/44/91/43/icon13.png"
+fanart="https://i58.servimg.com/u/f58/19/44/91/43/fanart21.jpg"
 adult="no"
 description=" Addon ."
 
 
-
-
-name="TVSUPERTUGA "
+name="[COLOR cyan]TVSUPERTUGA[/COLOR]  "
 plugin="plugin.video.TVsupertuga"
 url="https://raw.githubusercontent.com/axdesa/wizard/master/projectxwizard/addonsfix/TVsupertuga.zip"
 repository="none"
-repositoryxml="https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository/master/plugin.video.TVsupertuga/addon.xml"
-repositoryurl="http://tvsupertuga.net23.net/repo/"
+repositoryxml="http://"
+repositoryurl="http://"
 icon="https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository/master/plugin.video.TVsupertuga/icon.png"
 fanart="https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository/master/plugin.video.TVsupertuga/fanart.jpg"
 adult="no"
-description="TVsupertuga Addon ."
+description="TVsupertuga Addon "
 
 
-name="LOGAN TV "
-plugin="plugin.video.loganaddon"
-url="https://raw.githubusercontent.com/axdesa/wizard/master/projectxwizard/addonsfix/TVsupertuga.zip"
-repository="none"
-repositoryxml="https://ftgyhujiko.000webhostapp.com/tvsupertuga.repository/instal/plugin.video.loganaddon/plugin.video.loganaddon-2.0.zip"
-repositoryurl="http://tvsupertuga.net23.net/repo/"
-icon="https://ftgyhujiko.000webhostapp.com/tvsupertuga.repository/instal/plugin.video.loganaddon/icon.png"
-fanart="https://ftgyhujiko.000webhostapp.com/tvsupertuga.repository/instal/plugin.video.loganaddon/fanart.jpg"
+name="[COLOR cyan]PANCAS TV[/COLOR] "
+plugin="plugin.video.pancas"
+url="url="http://""
+repository="teamtuga4ever.repository"
+repositoryxml="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/addons.xml"
+repositoryurl="https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository/master/instal/tvsupertuga.repository/tvsupertuga.repository-0.0.7.zip"
+icon="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/instal/plugin.video.pancas/icon.png"
+fanart="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/instal/plugin.video.pancas/fanart.jpg"
 adult="no"
-description="Logan Addon ."
+description="Pancas TV Addon "
+
+name="[COLOR cyan]LOGAN TV[/COLOR]  "
+plugin="plugin.video.loganaddon"
+url="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/instal/plugin.video.loganaddon/plugin.video.loganaddon-2.0.zip"
+repository="none"
+repositoryxml="http://"
+repositoryurl="http://"
+icon="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/instal/plugin.video.loganaddon/icon.png"
+fanart="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/instal/plugin.video.loganaddon/fanart.jpg"
+adult="no"
+description="Logan Addon "
+
+
+name="FAMILIA IPTV"
+plugin="plugin.video.familiaiptv"
+url="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/instal/plugin.video.familiaiptv/plugin.video.familiaiptv-0.0.2.zip"
+repository="none"
+repositoryxml="http://"
+repositoryurl="http://"
+icon="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/plugin.video.familiaiptv/icon.png"
+fanart="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/plugin.video.familiaiptv/fanart.jpg"
+adult="no"
+description="Familia Iptv Addon "
+
+
+name="TEAM J2MF4"
+plugin="plugin.video.team.j2mf4"
+url="http://j2mf4.com/repositorio.team.j2mf4/TEAM%20J2MF4/repository/instal/plugin.video.team.j2mf4/plugin.video.team.j2mf4-1.0.zip"
+repository="none"
+repositoryxml="http://j2mf4.com/repositorio.team.j2mf4/TEAM%20J2MF4/repository/plugin.video.team.j2mf4/addon.xml"
+repositoryurl="http://j2mf4.com/repositorio.team.j2mf4/TEAM%20J2MF4/repository/"
+icon="http://j2mf4.com/repositorio.team.j2mf4/TEAM%20J2MF4/repository/plugin.video.team.j2mf4/icon.png"
+fanart="http://j2mf4.com/repositorio.team.j2mf4/TEAM%20J2MF4/repository/plugin.video.team.j2mf4/fanart.jpg"
+adult="no"
+description="Team j2mf4 Addon "
+
+
+name="SECRET TV"
+plugin="plugin.video.SECRET TV"
+url="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/instal/plugin.video.SECRET%20TV/plugin.video.SECRET%20TV-0.2.zip"
+repository="none"
+repositoryxml="http://"
+repositoryurl="http://"
+icon="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/plugin.video.SECRET%20TV/icon.png"
+fanart="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/plugin.video.SECRET%20TV/fanart.jpg"
+adult="no"
+description="Secret tv Addon "
+
+name="SPACE TUGA"
+plugin="plugin.video.spacetuga"
+url="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/instal/plugin.video.spacetuga/plugin.video.spacetuga-1.0.2.zip"
+repository="none"
+repositoryxml="http://"
+repositoryurl="http://"
+icon="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/plugin.video.SECRET%20TV/icon.png"
+fanart="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/plugin.video.SECRET%20TV/fanart.jpg"
+adult="no"
+description="Space Tuga Addon "
+
+
+name="SEAL MUSIC LIVE ACTS"
+plugin="plugin.video.sealmusic"
+url="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/instal/plugin.video.spacetuga/plugin.video.spacetuga-1.0.2.zip"
+repository="none"
+repositoryxml="http://"
+repositoryurl="http://"
+icon="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/instal/plugin.video.sealmusic/icon.png"
+fanart="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/instal/plugin.video.sealmusic/fanart.jpg"
+adult="no"
+description="Space Tuga Addon "
+
+
+name="TEAMBLUE"
+plugin="plugin.video.sealmusic"
+url="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/instal/plugin.video.spacetuga/plugin.video.spacetuga-1.0.2.zip"
+repository="none"
+repositoryxml="http://"
+repositoryurl="http://"
+icon="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/instal/plugin.video.sealmusic/icon.png"
+fanart="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/instal/plugin.video.sealmusic/fanart.jpg"
+adult="no"
+description="Space Tuga Addon "
 
 
 
@@ -56,6 +134,48 @@ description="Logan Addon ."
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+name="                                 [COLOR red]REPOS[/COLOR] "
+plugin="plugin"
+url="https://raw"
+repository="none"
+repositoryxml="https://"
+repositoryurl="http://tvsupertuga.net23.net/repo/"
+icon="https://i58.servimg.com/u/f58/19/44/91/43/icon13.png"
+fanart="https://i58.servimg.com/u/f58/19/44/91/43/fanart21.jpg"
+adult="no"
+description=" Addon ."
 
 
 
@@ -73,10 +193,153 @@ name="TVSUPERTUGA REPOSITORY"
 plugin="tvsupertuga.repository"
 url="https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository/master/instal/tvsupertuga.repository/tvsupertuga.repository-0.0.7.zip"
 repository="none"
-repositoryxml="https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository/master/instal/tvsupertuga.repository/addon.xml"
-repositoryurl="http://tvsupertuga.net23.net/repo/"
+repositoryxml="http://"
+repositoryurl="http://"
 icon="https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository/master/tvsupertuga.repository/icon.png"
 fanart="https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository/master/instal/tvsupertuga.repository/fanart.jpg"
 adult="no"
 description="TVsupertuga Repository."
+
+
+name="TEAMTUGA4EVER REPOSITORY"
+plugin="tvsupertuga.repository"
+url="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/instal/teamtuga4ever.repository/teamtuga4ever.repository-1.5.zip"
+repository="none"
+repositoryxml="http://"
+repositoryurl="http://"
+icon="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/teamtuga4ever.repository/icon.png"
+fanart="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/teamtuga4ever.repository/fanart.jpg"
+adult="no"
+description="Teamtuga4ever Repository"
+
+
+name="PANCAS REPOSITORY"
+plugin="repository.pancas"
+url="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/instal/repository.pancas/repository.pancas-1.0.6.zip"
+repository="none"
+repositoryxml="http://"
+repositoryurl="http://"
+icon="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/repository.pancas/icon.png"
+fanart="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/repository.pancas/fanart.jpg"
+adult="no"
+description="Pancas repository"
+
+
+name="FAMILIA IPTV REPOSITORY"
+plugin="repositorio.familiaiptv"
+url="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/instal/repositorio.familiaiptv/repositorio.familiaiptv-0.0.2.zip"
+repository="none"
+repositoryxml="http://"
+repositoryurl="http://"
+icon="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/repositorio.familiaiptv/icon.png"
+fanart="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/repositorio.familiaiptv/fanart.jpg"
+adult="no"
+description="Familia iptv repository"
+
+
+name="TEAMBLUE REPOSITORY"
+plugin="repositorio.familiaiptv"
+url="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/instal/repositorio.familiaiptv/repositorio.familiaiptv-0.0.2.zip"
+repository="none"
+repositoryxml="http://"
+repositoryurl="http://"
+icon="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/repositorio.familiaiptv/icon.png"
+fanart="https://raw.githubusercontent.com/teamtuga4ever/teamtuga4ever.repository/master/repositorio.familiaiptv/fanart.jpg"
+adult="no"
+description="Familia iptv repository"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+name="                                 [COLOR red]PROGRAMAS[/COLOR] "
+plugin="plugin"
+url="https://raw"
+repository="none"
+repositoryxml="https://"
+repositoryurl="http://tvsupertuga.net23.net/repo/"
+icon="https://i58.servimg.com/u/f58/19/44/91/43/icon13.png"
+fanart="https://i58.servimg.com/u/f58/19/44/91/43/fanart21.jpg"
+adult="no"
+description=" Addon ."
+
+
+
+
+
+name="TVSUPERTUGA MANUTENCAO"
+plugin="plugin.program.tvsupertugamanutencao"
+url="https://ftgyhujiko.000webhostapp.com/tvsupertuga.repository/instal/plugin.program.tvsupertugamanutencao/plugin.program.tvsupertugamanutencao-0.0.2.zip"
+repository="none"
+repositoryxml="http://"
+repositoryurl="http://"
+icon="https://ftgyhujiko.000webhostapp.com/tvsupertuga.repository/plugin.program.tvsupertugamanutencao/icon.png"
+fanart="https://ftgyhujiko.000webhostapp.com/tvsupertuga.repository/plugin.program.tvsupertugamanutencao/fanart.jpg"
+adult="no"
+description="Sua ferramenta para limpar seu dispositivo"
+
+
+name="TVSUPERTUGA NOTIFICATIONS"
+plugin="plugin.program.tvsupertuga.notifications"
+url="https://ftgyhujiko.000webhostapp.com/tvsupertuga.repository/instal/plugin.program.tvsupertuga.notifications/plugin.program.tvsupertuga.notifications-0.0.2.zip"
+repository="none"
+repositoryxml="http://"
+repositoryurl="http://"
+icon="https://ftgyhujiko.000webhostapp.com/tvsupertuga.repository/plugin.program.tvsupertuga.notifications/icon.png"
+fanart="https://raw.githubusercontent.com/repotvsupertuga/tvsupertuga.repository/master/instal/tvsupertuga.repository/fanart.jpg"
+adult="no"
+description="Here you can find the latest news of TVsupertuga"
+
+
+name="SUPER FAVOURITES"
+plugin="plugin.program.super.favourites"
+url="https://ftgyhujiko.000webhostapp.com/tvsupertuga.repository/instal/plugin.program.tvsupertuga.notifications/plugin.program.tvsupertuga.notifications-0.0.2.zip"
+repository="none"
+repositoryxml="http://"
+repositoryurl="http://"
+icon="https://ftgyhujiko.000webhostapp.com/tvsupertuga.repository/plugin.program.super.favourites/icon.png"
+fanart="https://ftgyhujiko.000webhostapp.com/tvsupertuga.repository/plugin.program.super.favourites/fanart.jpg"
+adult="no"
+description="Put all your favourites bits of all your favourites addons into one easy to use addon"
+
+
+name="KODI 17,18 ADDON ACTIVADOR"
+plugin="plugin.program.addon_activador"
+url="https://ftgyhujiko.000webhostapp.com/tvsupertuga.repository/instal/plugin.program.addon_activador/plugin.program.addon_activador-1.0.0.zip"
+repository="none"
+repositoryxml="http://"
+repositoryurl="http://"
+icon="https://ftgyhujiko.000webhostapp.com/tvsupertuga.repository/plugin.program.addon_activador/icon.png"
+fanart="https://ftgyhujiko.000webhostapp.com/tvsupertuga.repository/plugin.program.addon_activador/fanart.jpg"
+adult="no"
+description="Apos update do Kodi 16 para o Kodi 17, este addon permite activar os addons instalados com um so click"
+
+
+
+
+
+
+
+
+
+
 

@@ -1,0 +1,19 @@
+<colors>
+	<color name="white">ffDAF7A6</color>F1F3F5
+	<color name="white2">d0FFFFFF</color>
+	<color name="grey">ffDAF7A6</color>
+	<color name="grey2">FF999999</color>
+	<color name="grey3">FFF1F3F5</color>
+	<color name="grey4">ffDAF7A6</color>
+	<color name="black">FF000000</color>
+	<color name="blue">FF6db9e5</color>
+	<color name="selected">FF33B5E5</color>
+	<color name="invalid">FFFF0000</color>
+	<color name="themecolor">FF6db9e5</color>
+	<color name="themecolor_transparent">886db9e5</color>
+	<color name="ICS_Blue_Text">ff33B5E5</color>
+	<color name="ICS_Blue_Textures">ff0099CC</color>
+	<color name="dialogheader">FF606060</color>
+	<color name="labelheader">FF6db9e5</color>
+	<color name="shadow">AA000000</color>
+</colors>
