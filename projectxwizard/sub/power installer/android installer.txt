@@ -1,6 +1,6 @@
 <plugin>
-<name>[COLOR cyan]POWER INSTALLER [/COLOR]</name>
-<link>plugin://script.module.projectx.wizard/?mode=retromenu</link>
+<name>[COLOR cyan]APKS INSTALLER [/COLOR]</name>
+<link>plugin://script.module.projectx.wizard/?mode=emumenu</link>
 <thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/icon13.png</thumbnail>
 <fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart21.jpg</fanart>
 </plugin>
@@ -8,8 +8,8 @@
 
 
 <plugin>
-<name>[COLOR cyan]POWER INSTALLER [/COLOR]</name>
-<link>plugin://script.module.projectx.wizard/?mode=retromenu</link>
+<name>[COLOR cyan]JOGOS PACK ZIPS [/COLOR]</name>
+<link>plugin://script.module.projectx.wizard/?mode=rompackmenu</link>
 <thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/icon13.png</thumbnail>
 <fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart21.jpg</fanart>
 </plugin>
