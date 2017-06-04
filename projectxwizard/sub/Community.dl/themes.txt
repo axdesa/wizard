@@ -7,31 +7,19 @@
 
 
 name="EURO 2016 SKIN  [COLOR deeppink]JARVIS[/COLOR]"
-plugin="none"
+plugin="skin.euro.2016"
 url="https://ia801905.us.archive.org/13/items/multiple.builds.installer/skin.euro.2016.zip"
 repository="none"
 repositoryxml="http://"
 repositoryurl="http://"
-icon="http://i86.servimg.com/u/f86/19/44/91/43/icon10.jpg"
-fanart="http://i86.servimg.com/u/f86/19/44/91/43/fanart12.jpg"
+icon="https://i58.servimg.com/u/f58/19/44/91/43/skylex11.jpg"
+fanart="https://i58.servimg.com/u/f58/19/44/91/43/skylex10.jpg"
 adult="no"
 description="0.1"
 
 
 
 
-
-
-name="1 GB RAM OR MORE DEVICES  [COLOR deeppink]JARVIS[/COLOR]"
-plugin="none"
-url="https://ia601501.us.archive.org/9/items/plugin.video.SportsDevil-2016.09.24/Advancedsettings1GbRamOrMoreDevices.zip"
-repository="none"
-repositoryxml="http://"
-repositoryurl="http://"
-icon="http://i86.servimg.com/u/f86/19/44/91/43/icon10.jpg"
-fanart="http://i86.servimg.com/u/f86/19/44/91/43/fanart12.jpg"
-adult="no"
-description="0.1"
 
 
 
