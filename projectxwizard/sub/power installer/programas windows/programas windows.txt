@@ -1,0 +1,20 @@
+
+
+
+
+
+name="Kodi 17.3 windows"
+section="no"
+url="http://ftp.heanet.ie/mirrors/xbmc/releases/win32/kodi-17.3-Krypton.exe"
+icon="http://www.aftvnews.com/wp-content/uploads/2016/01/kodi_512x512.png"
+fanart="https://farm9.staticflickr.com/8741/16257070294_4da837efe6_o.png"
+adult="No"
+description="Kodi 17.3 Jarvis windows"
+
+name="SPMC 16.5.5 x86 (android 5.x e superior)"
+section="no"
+url="https://cld.pt/dl/download/aa60c4af-314e-4d98-8858-5d2d985cb308/SPMC-16.5.5-spmc-972797d-x86.apk"
+icon="http://s10.postimg.org/tcgt6xnud/ic_launcher_2.png"
+fanart="http://www.hostingpics.net/thumbs/53/63/87/mini_536387splash.png"
+adult="No"
+description="SPMC 16.5.5 Jarvis processadores Intel (x86)"
