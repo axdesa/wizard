@@ -1,6 +1,6 @@
 <plugin>
 <name>[COLOR cyan]PROGRAMAS WINDOWS[/COLOR]</name>
-<link>plugin://script.module.Community.dl/?mode=emumenu</link>
+<link>plugin://</link>
 <thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/icon13.png</thumbnail>
 <fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart21.jpg</fanart>
 </plugin>
